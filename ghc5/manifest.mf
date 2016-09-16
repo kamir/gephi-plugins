@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+Bundle-Localization: com/cloudera/gephi/ghc5/Bundle
+Bundle-Name: %OpenIDE-Module-Name
+Bundle-SymbolicName: com.cloudera.gephi.ghc5
+Bundle-Version: 1.0
+
