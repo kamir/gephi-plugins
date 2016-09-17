@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.alexandrebarao.network.splitter.3d">
+    <module_version install_time="1474114232409" last="true" origin="Gephi Thirdparties Plugins" specification_version="1.0.0">
+        <file crc="2211644270" name="config/Modules/org-alexandrebarao-network-splitter-3d.xml"/>
+        <file crc="3942251610" name="modules/org-alexandrebarao-network-splitter-3d.jar"/>
+    </module_version>
+</module>

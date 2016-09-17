@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="uk.ac.ox.oii.sigmaexporter">
+    <module_version install_time="1474114233042" last="true" origin="updater" specification_version="0.9.0">
+        <file crc="2791051589" name="config/Modules/uk-ac-ox-oii-sigmaexporter.xml"/>
+        <file crc="2542102745" name="modules/ext/uk.ac.ox.oii.sigmaexporter/com-google-code-gson/gson.jar"/>
+        <file crc="2361444776" name="modules/uk-ac-ox-oii-sigmaexporter.jar"/>
+    </module_version>
+</module>

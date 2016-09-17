@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.icculus.chunky.gephigraphviz">
+    <module_version install_time="1474113895316" last="true" origin="Gephi Thirdparties Plugins" specification_version="1.0.0">
+        <file crc="70309784" name="config/Modules/org-icculus-chunky-gephigraphviz.xml"/>
+        <file crc="3056011369" name="modules/org-icculus-chunky-gephigraphviz.jar"/>
+    </module_version>
+</module>

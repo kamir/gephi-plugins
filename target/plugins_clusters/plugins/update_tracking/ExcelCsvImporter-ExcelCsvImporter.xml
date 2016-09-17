@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="ExcelCsvImporter.ExcelCsvImporter">
+    <module_version install_time="1474114232813" last="true" origin="updater" specification_version="1.0.0">
+        <file crc="1995500635" name="config/Modules/ExcelCsvImporter-ExcelCsvImporter.xml"/>
+        <file crc="1742499878" name="modules/ExcelCsvImporter-ExcelCsvImporter.jar"/>
+        <file crc="551931592" name="modules/ext/ExcelCsvImporter.ExcelCsvImporter/com-github-virtuald/curvesapi.jar"/>
+        <file crc="4008454884" name="modules/ext/ExcelCsvImporter.ExcelCsvImporter/org-apache-poi/poi-ooxml-schemas.jar"/>
+        <file crc="4231584860" name="modules/ext/ExcelCsvImporter.ExcelCsvImporter/org-apache-poi/poi-ooxml.jar"/>
+        <file crc="276722526" name="modules/ext/ExcelCsvImporter.ExcelCsvImporter/org-apache-poi/poi.jar"/>
+        <file crc="3885702182" name="modules/ext/ExcelCsvImporter.ExcelCsvImporter/org-apache-xmlbeans/xmlbeans.jar"/>
+        <file crc="718358633" name="modules/ext/ExcelCsvImporter.ExcelCsvImporter/stax/stax-api.jar"/>
+    </module_version>
+</module>

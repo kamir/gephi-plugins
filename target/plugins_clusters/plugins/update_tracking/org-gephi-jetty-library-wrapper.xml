@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.gephi.jetty.library.wrapper">
+    <module_version install_time="1474114232679" last="true" origin="Gephi Thirdparties Plugins" specification_version="1.0.0">
+        <file crc="1513735452" name="config/Modules/org-gephi-jetty-library-wrapper.xml"/>
+        <file crc="1371539559" name="modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty-orbit/javax.servlet.jar"/>
+        <file crc="641869164" name="modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-continuation.jar"/>
+        <file crc="2540309786" name="modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-http.jar"/>
+        <file crc="1487138444" name="modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-io.jar"/>
+        <file crc="3402571042" name="modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-security.jar"/>
+        <file crc="748811496" name="modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-server.jar"/>
+        <file crc="3612064341" name="modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-servlet.jar"/>
+        <file crc="1227098484" name="modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-util.jar"/>
+        <file crc="413463045" name="modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-websocket.jar"/>
+        <file crc="3646678559" name="modules/org-gephi-jetty-library-wrapper.jar"/>
+    </module_version>
+</module>

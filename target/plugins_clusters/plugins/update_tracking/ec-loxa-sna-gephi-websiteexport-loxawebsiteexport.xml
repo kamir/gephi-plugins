@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="ec.loxa.sna.gephi.websiteexport.loxawebsiteexport">
+    <module_version install_time="1474114232752" last="true" origin="updater" specification_version="0.3.2">
+        <file crc="3275877544" name="config/Modules/ec-loxa-sna-gephi-websiteexport-loxawebsiteexport.xml"/>
+        <file crc="1551257644" name="modules/ec-loxa-sna-gephi-websiteexport-loxawebsiteexport.jar"/>
+        <file crc="2578792624" name="modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/com-google-code-gson/gson.jar"/>
+        <file crc="3136358475" name="modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/org-jsoup/jsoup.jar"/>
+        <file crc="1888669852" name="modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/org-slf4j/slf4j-api.jar"/>
+        <file crc="3379943687" name="modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/org-swinglabs/swing-layout.jar"/>
+        <file crc="1334876682" name="modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/org-zeroturnaround/zt-zip.jar"/>
+    </module_version>
+</module>

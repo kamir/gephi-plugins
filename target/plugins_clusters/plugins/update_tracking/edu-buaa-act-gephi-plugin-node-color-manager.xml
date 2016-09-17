@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="edu.buaa.act.gephi.plugin.node.color.manager">
+    <module_version install_time="1474113895334" last="true" origin="Gephi Thirdparties Plugins" specification_version="1.0.0">
+        <file crc="94558250" name="config/Modules/edu-buaa-act-gephi-plugin-node-color-manager.xml"/>
+        <file crc="4105294892" name="modules/edu-buaa-act-gephi-plugin-node-color-manager.jar"/>
+    </module_version>
+</module>

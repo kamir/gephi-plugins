@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="totetmatt.twitter.streaming.importer">
+    <module_version install_time="1474114233064" last="true" origin="updater" specification_version="1.0.0">
+        <file crc="288128947" name="config/Modules/totetmatt-twitter-streaming-importer.xml"/>
+        <file crc="1200174112" name="modules/ext/totetmatt.twitter-streaming-importer/org-apache-commons/commons-lang3.jar"/>
+        <file crc="3136358475" name="modules/ext/totetmatt.twitter-streaming-importer/org-jsoup/jsoup.jar"/>
+        <file crc="2339273977" name="modules/ext/totetmatt.twitter-streaming-importer/org-twitter4j/twitter4j-core.jar"/>
+        <file crc="1456198249" name="modules/ext/totetmatt.twitter-streaming-importer/org-twitter4j/twitter4j-media-support.jar"/>
+        <file crc="7043585" name="modules/ext/totetmatt.twitter-streaming-importer/org-twitter4j/twitter4j-stream.jar"/>
+        <file crc="2709650940" name="modules/totetmatt-twitter-streaming-importer.jar"/>
+    </module_version>
+</module>

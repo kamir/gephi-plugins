@@ -1,0 +1,516 @@
+Sep 17, 2016 2:04:53 PM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMATION: Entering updater.jar .................................................................... 
+Sep 17, 2016 2:04:54 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-gephi-scripting-plugin.nbm
+Sep 17, 2016 2:04:54 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-gephi-scripting-plugin.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-gephi-scripting-plugin.xml
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/org.gephi.scripting.plugin/gython/gython.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/org.gephi.scripting.plugin/gython/gython.jar
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-gephi-scripting-plugin.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-gephi-scripting-plugin.jar
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/COPYING.txt to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/COPYING.txt
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/README.txt to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/README.txt
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/__init__.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/__init__.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/bug_test_case.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/bug_test_case.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/console.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/console.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/history.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/history.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/history_test_case.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/history_test_case.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/introspect.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/introspect.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/introspect_test_case.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/introspect_test_case.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/issue_17_test_case.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/issue_17_test_case.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/jintrospect.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/jintrospect.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/jintrospect_test_case.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/jintrospect_test_case.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/popup.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/popup.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/problems.txt to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/problems.txt
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/run_tests.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/run_tests.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/static_test_case.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/static_test_case.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/testcase.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/testcase.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/py/jythonconsole/tip.py to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/py/jythonconsole/tip.py
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-gephi-scripting-plugin.nbm deleted.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@2f0528f4
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-gephi-scripting-plugin.xml modified.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-gephi-layout-plugin-circularlayout.nbm
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-gephi-layout-plugin-circularlayout.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-gephi-layout-plugin-circularlayout.xml
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-gephi-layout-plugin-circularlayout.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-gephi-layout-plugin-circularlayout.jar
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-gephi-layout-plugin-circularlayout.nbm deleted.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@2162859b
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-gephi-layout-plugin-circularlayout.xml modified.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-alexandrebarao-isometric-layout.nbm
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-alexandrebarao-isometric-layout.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-alexandrebarao-isometric-layout.xml
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-alexandrebarao-isometric-layout.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-alexandrebarao-isometric-layout.jar
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-alexandrebarao-isometric-layout.nbm deleted.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@18fb7461
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-alexandrebarao-isometric-layout.xml modified.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-icculus-chunky-gephigraphviz.nbm
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-icculus-chunky-gephigraphviz.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-icculus-chunky-gephigraphviz.xml
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-icculus-chunky-gephigraphviz.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-icculus-chunky-gephigraphviz.jar
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-icculus-chunky-gephigraphviz.nbm deleted.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@1289f7e2
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-icculus-chunky-gephigraphviz.xml modified.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: edu-buaa-act-gephi-plugin-node-color-manager.nbm
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/edu-buaa-act-gephi-plugin-node-color-manager.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/edu-buaa-act-gephi-plugin-node-color-manager.xml
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/edu-buaa-act-gephi-plugin-node-color-manager.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/edu-buaa-act-gephi-plugin-node-color-manager.jar
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/edu-buaa-act-gephi-plugin-node-color-manager.nbm deleted.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@7ad60ae4
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/edu-buaa-act-gephi-plugin-node-color-manager.xml modified.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: wouterspekkink-lineage.nbm
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/wouterspekkink-lineage.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/wouterspekkink-lineage.xml
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/wouterspekkink-lineage.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/wouterspekkink-lineage.jar
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/wouterspekkink-lineage.nbm deleted.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@1cc697a7
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/wouterspekkink-lineage.xml modified.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-gephi-geolayout-plugin.nbm
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-gephi-geolayout-plugin.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-gephi-geolayout-plugin.xml
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-gephi-geolayout-plugin.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-gephi-geolayout-plugin.jar
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-gephi-geolayout-plugin.nbm deleted.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@569870b8
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-gephi-geolayout-plugin.xml modified.
+Sep 17, 2016 2:04:55 PM org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/additional_information.xml deleted.
+Sep 17, 2016 2:10:31 PM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMATION: Entering updater.jar .................................................................... 
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-alexandrebarao-network-splitter-3d.nbm
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-alexandrebarao-network-splitter-3d.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-alexandrebarao-network-splitter-3d.xml
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-alexandrebarao-network-splitter-3d.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-alexandrebarao-network-splitter-3d.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-alexandrebarao-network-splitter-3d.nbm deleted.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@10e80b1d
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-alexandrebarao-network-splitter-3d.xml modified.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-gephi-desktop-streaming.nbm
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-gephi-desktop-streaming.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-gephi-desktop-streaming.xml
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-gephi-desktop-streaming.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-gephi-desktop-streaming.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-gephi-desktop-streaming.nbm deleted.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@6db017c0
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-gephi-desktop-streaming.xml modified.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-gephi-graphstreaming.nbm
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-gephi-graphstreaming.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-gephi-graphstreaming.xml
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-gephi-graphstreaming.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-gephi-graphstreaming.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-gephi-graphstreaming.nbm deleted.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@62814fad
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-gephi-graphstreaming.xml modified.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: cz-cvut-fit-gephi-multimode.nbm
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/cz-cvut-fit-gephi-multimode.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/cz-cvut-fit-gephi-multimode.xml
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/cz-cvut-fit-gephi-multimode.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/cz-cvut-fit-gephi-multimode.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/cz-cvut-fit-gephi-multimode.nbm deleted.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@7e7054c
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/cz-cvut-fit-gephi-multimode.xml modified.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-gephi-streaming-impl.nbm
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-gephi-streaming-impl.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-gephi-streaming-impl.xml
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-gephi-streaming-impl.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-gephi-streaming-impl.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-gephi-streaming-impl.nbm deleted.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@54e4ebb0
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-gephi-streaming-impl.xml modified.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: com-hypercities-exporttoearth.nbm
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/com-hypercities-exporttoearth.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/com-hypercities-exporttoearth.xml
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/com-hypercities-exporttoearth.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/com-hypercities-exporttoearth.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/com.hypercities.exporttoearth/com-sun-xml-bind/jaxb-impl.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/com.hypercities.exporttoearth/com-sun-xml-bind/jaxb-impl.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/com.hypercities.exporttoearth/com-sun-xml-bind/jaxb-xjc.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/com.hypercities.exporttoearth/com-sun-xml-bind/jaxb-xjc.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/com.hypercities.exporttoearth/de-micromata-jak/JavaAPIforKml.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/com.hypercities.exporttoearth/de-micromata-jak/JavaAPIforKml.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/com.hypercities.exporttoearth/javax-activation/activation.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/com.hypercities.exporttoearth/javax-activation/activation.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/com.hypercities.exporttoearth/javax-xml-bind/jaxb-api.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/com.hypercities.exporttoearth/javax-xml-bind/jaxb-api.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/com.hypercities.exporttoearth/javax-xml-stream/stax-api.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/com.hypercities.exporttoearth/javax-xml-stream/stax-api.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/com-hypercities-exporttoearth.nbm deleted.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@2e0ea0ed
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/com-hypercities-exporttoearth.xml modified.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: uk-ac-ox-oii-jsonexporter-plugin.nbm
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/uk-ac-ox-oii-jsonexporter-plugin.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/uk-ac-ox-oii-jsonexporter-plugin.xml
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/uk.ac.ox.oii.jsonexporter-plugin/com-google-code-gson/gson.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/uk.ac.ox.oii.jsonexporter-plugin/com-google-code-gson/gson.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/uk-ac-ox-oii-jsonexporter-plugin.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/uk-ac-ox-oii-jsonexporter-plugin.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/uk-ac-ox-oii-jsonexporter-plugin.nbm deleted.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@60b51d74
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/uk-ac-ox-oii-jsonexporter-plugin.xml modified.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-gephi-jetty-library-wrapper.nbm
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-gephi-jetty-library-wrapper.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-gephi-jetty-library-wrapper.xml
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty-orbit/javax.servlet.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty-orbit/javax.servlet.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-continuation.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-continuation.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-http.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-http.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-io.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-io.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-security.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-security.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-server.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-server.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-servlet.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-servlet.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-util.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-util.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-websocket.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/org.gephi.jetty-library-wrapper/org-eclipse-jetty/jetty-websocket.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-gephi-jetty-library-wrapper.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-gephi-jetty-library-wrapper.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-gephi-jetty-library-wrapper.nbm deleted.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@5bf98f85
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-gephi-jetty-library-wrapper.xml modified.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: wouterspekkink-mdslayout.nbm
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/wouterspekkink-mdslayout.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/wouterspekkink-mdslayout.xml
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/wouterspekkink-mdslayout.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/wouterspekkink-mdslayout.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/wouterspekkink-mdslayout.nbm deleted.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@68cec548
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/wouterspekkink-mdslayout.xml modified.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: ec-loxa-sna-gephi-websiteexport-loxawebsiteexport.nbm
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/ec-loxa-sna-gephi-websiteexport-loxawebsiteexport.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/ec-loxa-sna-gephi-websiteexport-loxawebsiteexport.xml
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ec-loxa-sna-gephi-websiteexport-loxawebsiteexport.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ec-loxa-sna-gephi-websiteexport-loxawebsiteexport.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/com-google-code-gson/gson.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/com-google-code-gson/gson.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/org-jsoup/jsoup.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/org-jsoup/jsoup.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/org-slf4j/slf4j-api.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/org-slf4j/slf4j-api.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/org-swinglabs/swing-layout.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/org-swinglabs/swing-layout.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/org-zeroturnaround/zt-zip.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/ec.loxa.sna.gephi.websiteexport.loxawebsiteexport/org-zeroturnaround/zt-zip.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/ec-loxa-sna-gephi-websiteexport-loxawebsiteexport.nbm deleted.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@4e28fdbf
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/ec-loxa-sna-gephi-websiteexport-loxawebsiteexport.xml modified.
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: ExcelCsvImporter-ExcelCsvImporter.nbm
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/ExcelCsvImporter-ExcelCsvImporter.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/ExcelCsvImporter-ExcelCsvImporter.xml
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ExcelCsvImporter-ExcelCsvImporter.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ExcelCsvImporter-ExcelCsvImporter.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/ExcelCsvImporter.ExcelCsvImporter/com-github-virtuald/curvesapi.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/ExcelCsvImporter.ExcelCsvImporter/com-github-virtuald/curvesapi.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/ExcelCsvImporter.ExcelCsvImporter/org-apache-poi/poi-ooxml-schemas.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/ExcelCsvImporter.ExcelCsvImporter/org-apache-poi/poi-ooxml-schemas.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/ExcelCsvImporter.ExcelCsvImporter/org-apache-poi/poi-ooxml.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/ExcelCsvImporter.ExcelCsvImporter/org-apache-poi/poi-ooxml.jar
+Sep 17, 2016 2:10:32 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/ExcelCsvImporter.ExcelCsvImporter/org-apache-poi/poi.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/ExcelCsvImporter.ExcelCsvImporter/org-apache-poi/poi.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/ExcelCsvImporter.ExcelCsvImporter/org-apache-xmlbeans/xmlbeans.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/ExcelCsvImporter.ExcelCsvImporter/org-apache-xmlbeans/xmlbeans.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/ExcelCsvImporter.ExcelCsvImporter/stax/stax-api.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/ExcelCsvImporter.ExcelCsvImporter/stax/stax-api.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/ExcelCsvImporter-ExcelCsvImporter.nbm deleted.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@6369f78e
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/ExcelCsvImporter-ExcelCsvImporter.xml modified.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: net-clementlevallois.nbm
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/net-clementlevallois.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/net-clementlevallois.xml
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/net-clementlevallois.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/net-clementlevallois.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/net-clementlevallois.nbm deleted.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@5b74b4c8
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/net-clementlevallois.xml modified.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: uk-ac-ox-oii-sigmaexporter.nbm
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/uk-ac-ox-oii-sigmaexporter.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/uk-ac-ox-oii-sigmaexporter.xml
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/uk.ac.ox.oii.sigmaexporter/com-google-code-gson/gson.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/uk.ac.ox.oii.sigmaexporter/com-google-code-gson/gson.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/uk-ac-ox-oii-sigmaexporter.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/uk-ac-ox-oii-sigmaexporter.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/uk-ac-ox-oii-sigmaexporter.nbm deleted.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@d124bec
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/uk-ac-ox-oii-sigmaexporter.xml modified.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: totetmatt-twitter-streaming-importer.nbm
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/totetmatt-twitter-streaming-importer.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/totetmatt-twitter-streaming-importer.xml
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/totetmatt.twitter-streaming-importer/org-apache-commons/commons-lang3.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/totetmatt.twitter-streaming-importer/org-apache-commons/commons-lang3.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/totetmatt.twitter-streaming-importer/org-jsoup/jsoup.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/totetmatt.twitter-streaming-importer/org-jsoup/jsoup.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/totetmatt.twitter-streaming-importer/org-twitter4j/twitter4j-core.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/totetmatt.twitter-streaming-importer/org-twitter4j/twitter4j-core.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/totetmatt.twitter-streaming-importer/org-twitter4j/twitter4j-media-support.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/totetmatt.twitter-streaming-importer/org-twitter4j/twitter4j-media-support.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/totetmatt.twitter-streaming-importer/org-twitter4j/twitter4j-stream.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/totetmatt.twitter-streaming-importer/org-twitter4j/twitter4j-stream.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/totetmatt-twitter-streaming-importer.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/totetmatt-twitter-streaming-importer.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/totetmatt-twitter-streaming-importer.nbm deleted.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@7979359f
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/totetmatt-twitter-streaming-importer.xml modified.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-gephi-linkfluence.nbm
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-gephi-linkfluence.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-gephi-linkfluence.xml
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-gephi-linkfluence-plugin.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-gephi-linkfluence-plugin.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-gephi-linkfluence.nbm deleted.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@efde8c3
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-gephi-linkfluence.xml modified.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-gephi-streaming-api.nbm
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-gephi-streaming-api.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-gephi-streaming-api.xml
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-gephi-streaming-api.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-gephi-streaming-api.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-gephi-streaming-api.nbm deleted.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@531b65a9
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-gephi-streaming-api.xml modified.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: oracle-troubadour-co-uk-oracle-driver.nbm
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/oracle-troubadour-co-uk-oracle-driver.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/oracle-troubadour-co-uk-oracle-driver.xml
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/oracle-troubadour-co-uk-oracle-driver.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/oracle-troubadour-co-uk-oracle-driver.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/oracle-troubadour-co-uk-oracle-driver.nbm deleted.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@667ce33e
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/oracle-troubadour-co-uk-oracle-driver.xml modified.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: fr-inria-edelweiss-semantic.nbm
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/fr-inria-edelweiss-semantic.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/fr-inria-edelweiss-semantic.xml
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/bouncycastle/bcmail-jdk14.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/bouncycastle/bcmail-jdk14.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/bouncycastle/bcprov-jdk14.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/bouncycastle/bcprov-jdk14.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/com-hp-hpl-jena/iri.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/com-hp-hpl-jena/iri.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/com-hp-hpl-jena/jena.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/com-hp-hpl-jena/jena.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/com-ibm-icu/icu4j.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/com-ibm-icu/icu4j.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/com-lowagie/itext.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/com-lowagie/itext.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/commons-codec/commons-codec.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/commons-codec/commons-codec.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/commons-httpclient/commons-httpclient.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/commons-httpclient/commons-httpclient.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/commons-lang/commons-lang.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/commons-lang/commons-lang.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/commons-logging/commons-logging.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/commons-logging/commons-logging.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/fr-com-hp-hpl-jena-rdf-arp/arp.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/fr-com-hp-hpl-jena-rdf-arp/arp.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/corese.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/corese.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/engine.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/engine.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/kgengine.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/kgengine.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/kgenv.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/kgenv.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/kgram.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/kgram.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/kgtool.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/kgtool.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/sparql.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/fr-inria-wimmics/sparql.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/junit/junit.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/junit/junit.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/log4j/log4j.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/log4j/log4j.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/org-apache-commons/commons-math.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/org-apache-commons/commons-math.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/org-apache-commons/commons-math3.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/org-apache-commons/commons-math3.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/org-graphstream/gs-algo.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/org-graphstream/gs-algo.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/org-graphstream/gs-core.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/org-graphstream/gs-core.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/org-graphstream/gs-ui.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/org-graphstream/gs-ui.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/org-graphstream/mbox2.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/org-graphstream/mbox2.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/org-graphstream/pherd.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/org-graphstream/pherd.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/org-jfree/jcommon.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/org-jfree/jcommon.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/org-jfree/jfreechart.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/org-jfree/jfreechart.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/org-scala-lang/scala-library.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/org-scala-lang/scala-library.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/org-slf4j/slf4j-api.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/org-slf4j/slf4j-api.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/org-slf4j/slf4j-log4j12.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/org-slf4j/slf4j-log4j12.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/xerces/xercesImpl.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/xerces/xercesImpl.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/ext/fr.inria.edelweiss.semantic/xml-apis/xml-apis.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/ext/fr.inria.edelweiss.semantic/xml-apis/xml-apis.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/fr-inria-edelweiss-semantic.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/fr-inria-edelweiss-semantic.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/fr-inria-edelweiss-semantic.nbm deleted.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@4646cd34
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/fr-inria-edelweiss-semantic.xml modified.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-gephi-kbrace-filter.nbm
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-gephi-kbrace-filter.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-gephi-kbrace-filter.xml
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-gephi-kbrace-filter.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-gephi-kbrace-filter.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-gephi-kbrace-filter.nbm deleted.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@7c7266cb
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-gephi-kbrace-filter.xml modified.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: org-gephi-streaming-server.nbm
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/org-gephi-streaming-server.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/org-gephi-streaming-server.xml
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/org-gephi-streaming-server.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/org-gephi-streaming-server.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/org-gephi-streaming-server.nbm deleted.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@73e24a76
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/org-gephi-streaming-server.xml modified.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: 780: Datei wird dekomprimiert: wouterspekkink-eventgraphlayout.nbm
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/config/Modules/wouterspekkink-eventgraphlayout.xml to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/config/Modules/wouterspekkink-eventgraphlayout.xml
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: Copied file netbeans/modules/wouterspekkink-eventgraphlayout.jar to /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/modules/wouterspekkink-eventgraphlayout.jar
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/wouterspekkink-eventgraphlayout.nbm deleted.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.XMLUtil write
+INFORMATION: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@10509105
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update_tracking/wouterspekkink-eventgraphlayout.xml modified.
+Sep 17, 2016 2:10:33 PM org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
+INFORMATION: File /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/plugins_clusters/plugins/update/download/additional_information.xml deleted.

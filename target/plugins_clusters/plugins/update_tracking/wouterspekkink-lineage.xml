@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="wouterspekkink.lineage">
+    <module_version install_time="1474113895347" last="true" origin="Gephi Thirdparties Plugins" specification_version="0.9.1">
+        <file crc="3720639935" name="config/Modules/wouterspekkink-lineage.xml"/>
+        <file crc="2076159872" name="modules/wouterspekkink-lineage.jar"/>
+    </module_version>
+</module>

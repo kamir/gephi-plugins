@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Saturday, September 17, 2016 12:09:43 PM CEST
+>Log Session: Saturday, September 17, 2016 2:10:35 PM CEST
 >System Info: 
   Product Version         = Gephi 0.9.1 201510222201
   Operating System        = Mac OS X version 10.11.6 running on x86_64
@@ -20,30 +20,53 @@
   Startup Classpath       = /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/asm-all-5.0.1.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/core-base.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/core.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/org-netbeans-libs-asm.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/org-openide-filesystems-compat8.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/org-openide-filesystems.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core-base_ja.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core-base_pt_BR.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core-base_ru.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core-base_zh_CN.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_ar_SA.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_bg.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_ca.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_cs.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_de.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_es.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_fr.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_gl_ES.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_in_ID.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_it.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_ja.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_ko.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_nl_NL.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_pl.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_pt_BR.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_pt_PT.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_ro.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_ru.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_si.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_sq.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_sv.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_tr.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_zh_CN.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/core_zh_TW.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-netbeans-libs-asm_ja.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-netbeans-libs-asm_pt_BR.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-netbeans-libs-asm_ru.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-netbeans-libs-asm_zh_CN.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems-compat8_ja.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems-compat8_pt_BR.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems-compat8_ru.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems-compat8_zh_CN.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_ar_SA.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_bg.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_ca.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_cs.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_de.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_es.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_fr.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_gl_ES.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_in_ID.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_it.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_ja.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_ko.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_nl_NL.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_pl.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_pt_BR.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_pt_PT.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_ro.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_ru.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_si.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_sq.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_sv.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_tr.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_zh_CN.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/platform/core/locale/org-openide-filesystems_zh_TW.jar:/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/target/gephi-0.9.1/gephi/core/locale/core_gephi.jar
 -------------------------------------------------------------------------------
 WARNING [org.netbeans.modules.autoupdate.ui.actions.AutoupdateSettings]: The property "netbeans.default_userdir_root" was not set!
-WARNING [null]: Last record repeated again.
 INFO [org.netbeans.core.startup.NbEvents]: Module werden aktiviert:
 	org.openide.util.lookup [8.32.1 201510222201]
 	org.openide.util [9.5.1 201510222201]
 	org.openide.util.ui [9.4.1 201510222201]
 	org.openide.modules [7.47.1 201510222201]
-	org.netbeans.api.annotations.common/1 [1.26.1 201510222201]
+	org.gephi.utils.longtask [0.9.1 0.9.1 201602141952]
 	org.openide.filesystems [9.8.1 201510222201]
+	org.gephi.project.api [0.9.1 0.9.1 201602141952]
+	org.gephi.graph.api [0.9.1 0.9.1 201602141952]
+	org.gephi.ui.propertyeditor [0.9.1 0.9.1 201602142000]
+	org.gephi.core.library.wrapper [0.9.1 0.9.1 201602141952]
+	org.gephi.utils [0.9.1 0.9.1 201602141952]
+	org.netbeans.api.annotations.common/1 [1.26.1 201510222201]
 	org.openide.awt [7.65.1 201510222201]
 	org.netbeans.api.progress/1 [1.46.1 201510222201]
 	org.netbeans.api.progress.nb [1.46.1 201510222201]
 	org.openide.dialogs [7.41.1 201510222201]
 	org.openide.nodes [7.42.1 201510222201]
+	org.gephi.layout.api [0.9.1 0.9.1 201602141959]
+	wouterspekkink.mdslayout [0.9.1 0.9.1 201609151715]
+	org.gephi.statistics.api [0.9.1 0.9.1 201602141955]
+	wouterspekkink.lineage [0.9.1 0.9.1 201609151715]
+	wouterspekkink.eventgraphlayout [1.0.0 1.0.0 201609151715]
+	org.gephi.preview.api [0.9.1 0.9.1 201602141953]
+	org.gephi.lib.validation [0.9.1 0.9.1 201602141953]
+	org.gephi.ui.utils [0.9.1 0.9.1 201602141955]
+	org.gephi.io.exporter.api [0.9.1 0.9.1 201602141952]
+	org.gephi.desktop.io.export [0.9.1 0.9.1 201602142002]
 	org.openide.windows [6.74.1 201510222201]
-	org.netbeans.modules.editor.mimelookup/1 [1.39.1 201510222201]
-	org.openide.text [6.66.1 201510222201]
+	uk.ac.ox.oii.sigmaexporter [0.9.0 0.9.0 201609151713]
+	uk.ac.ox.oii.jsonexporter.plugin [2.0.0 2.0.0 201609151713]
 	org.netbeans.swing.tabcontrol [1.54.1 201510222201]
 	org.netbeans.swing.outline [1.32.1 201510222201]
 	org.openide.explorer [6.61.1 201510222201]
+	org.netbeans.modules.editor.mimelookup/1 [1.39.1 201510222201]
+	org.openide.text [6.66.1 201510222201]
 	org.openide.actions [6.38.1 201510222201]
+	org.netbeans.libs.asm [5.2.1 201510222201]
+	org.netbeans.bootstrap/1 [2.74.1 201510222201]
+	org.netbeans.core.startup.base [1.61.1.1 1 201510222201]
+	org.netbeans.core.startup/1 [1.61.1.1 201510222201]
+	org.openide.filesystems.nb [9.7.1 201510222201]
 	org.netbeans.modules.queries/1 [1.42.1 201510222201]
 	org.netbeans.api.templates [1.6.1 201510222201]
-	org.openide.filesystems.nb [9.7.1 201510222201]
 	org.openide.loaders [7.63.1 201510222201]
+	org.netbeans.modules.settings/1 [1.48.1 201510222201]
+	totetmatt.twitter.streaming.importer [1.0.0 1.0.0 201609151715]
 	org.netbeans.api.intent [1.1.1 201510222201]
 	org.netbeans.api.io [1.2.1 201510222201]
 	org.openide.io [1.48.1 201510222201]
@@ -51,11 +74,6 @@ INFO [org.netbeans.core.startup.NbEvents]: Module werden aktiviert:
 	org.netbeans.swing.plaf [1.40.1 201510222201]
 	org.netbeans.spi.quicksearch [1.26.1 201510222201]
 	org.netbeans.modules.templates/1 [1.6.1 201510222201]
-	org.netbeans.libs.asm [5.2.1 201510222201]
-	org.netbeans.bootstrap/1 [2.74.1 201510222201]
-	org.netbeans.core.startup.base [1.61.1.1 1 201510222201]
-	org.netbeans.core.startup/1 [1.61.1.1 201510222201]
-	org.netbeans.modules.settings/1 [1.48.1 201510222201]
 	org.netbeans.modules.sendopts/2 [2.34.1 201510222201]
 	org.netbeans.modules.sampler [1.13.1 201510222201]
 	org.netbeans.modules.progress.ui [1.32.1 201510222201]
@@ -82,14 +100,9 @@ INFO [org.netbeans.core.startup.NbEvents]: Module werden aktiviert:
 	org.netbeans.core.nativeaccess/1 [1.30.1 201510222201]
 	org.netbeans.core.multitabs/1 [1.11.1.1 1 201510222201]
 	org.netbeans.core.io.ui/1 [1.29.1 201510222201]
-	org.gephi.core.library.wrapper [0.9.1 0.9.1 201602141952]
+	org.gephi.layout.plugin [0.9.1 0.9.1 201602142000]
+	org.icculus.chunky.gephigraphviz [1.0.0 1.0.0 201609151713]
 	org.gephi.ui.library.wrapper [0.9.1 0.9.1 201602141953]
-	org.gephi.utils [0.9.1 0.9.1 201602141952]
-	org.gephi.lib.validation [0.9.1 0.9.1 201602141953]
-	org.gephi.utils.longtask [0.9.1 0.9.1 201602141952]
-	org.gephi.project.api [0.9.1 0.9.1 201602141952]
-	org.gephi.graph.api [0.9.1 0.9.1 201602141952]
-	org.gephi.ui.utils [0.9.1 0.9.1 201602141955]
 	org.gephi.ui.components [0.9.1 0.9.1 201602141955]
 	org.gephi.db.drivers [0.9.1 0.9.1 201602141954]
 	org.gephi.io.importer.api [0.9.1 0.9.1 201602141954]
@@ -101,34 +114,39 @@ INFO [org.netbeans.core.startup.NbEvents]: Module werden aktiviert:
 	org.gephi.tools.api [0.9.1 0.9.1 201602141957]
 	org.gephi.gleem [0.9.1 0.9.1 201602141957]
 	org.gephi.visualization [0.9.1 0.9.1 201602141958]
-	org.gephi.ui.propertyeditor [0.9.1 0.9.1 201602142000]
 	org.gephi.algorithms.plugin [0.9.1 0.9.1 201602141957]
 	org.gephi.tools.plugin [0.9.1 0.9.1 201602141958]
-	org.gephi.statistics.api [0.9.1 0.9.1 201602141955]
 	org.gephi.statistics.plugin [0.9.1 0.9.1 201602141956]
 	org.gephi.filters.api [0.9.1 0.9.1 201602141956]
 	org.gephi.appearance.api [0.9.1 0.9.1 201602141956]
 	org.gephi.filters.plugin [0.9.1 0.9.1 201602141957]
 	org.gephi.timeline.api [0.9.1 0.9.1 201602141957]
+	org.gephi.streaming.api [1.0.0 1.0.0 201609151713]
+	org.gephi.streaming.impl [1.0.0 1.0.0 201609151713]
+	org.gephi.jetty.library.wrapper [1.0.0 1.0.0 201609151713]
+	org.gephi.streaming.server [1.0.0 1.0.0 201609151713]
 	org.gephi.statistics.plugin.ui [0.9.1 0.9.1 201602141956]
 	org.gephi.settings.upgrader [0.9.1 0.9.1 201602141955]
+	org.gephi.scripting.plugin [0.9.1.1 0.9.1.1 201609151715]
 	org.gephi.project.ui [0.9.1 0.9.1 201602141955]
 	org.gephi.io.processor.plugin [0.9.1 0.9.1 201602141954]
 	org.gephi.processor.plugin.ui [0.9.1 0.9.1 201602141955]
-	org.gephi.preview.api [0.9.1 0.9.1 201602141953]
 	org.gephi.preview.plugin [0.9.1 0.9.1 201602141954]
-	org.gephi.io.exporter.api [0.9.1 0.9.1 201602141952]
 	org.gephi.io.exporter.preview [0.9.1 0.9.1 201602141953]
 	org.gephi.preview.export.ui [0.9.1 0.9.1 201602141953]
 	org.gephi.perspective.api [0.9.1 0.9.1 201602142002]
-	org.gephi.layout.api [0.9.1 0.9.1 201602141959]
-	org.gephi.layout.plugin [0.9.1 0.9.1 201602142000]
+	org.gephi.linkfluence [1.0.9 0.9.0 201609151712]
+	org.gephi.layout.plugin.circularlayout [0.9.1 0.9.1 201609151714]
+	org.gephi.kbrace.filter [1.0.0 1.0.0 201609151713]
 	org.gephi.io.importer.plugin [0.9.1 0.9.1 201602142002]
 	org.gephi.io.generator.api [0.9.1 0.9.1 201602141959]
 	org.gephi.io.generator.plugin [0.9.1 0.9.1 201602141959]
 	org.gephi.io.exporter.plugin [0.9.1 0.9.1 201602142000]
 	org.gephi.import.plugin.ui [0.9.1 0.9.1 201602142003]
+	org.gephi.desktop.streaming [1.0.0 1.0.0 201609151714]
+	org.gephi.graphstreaming [1.0.0 1.0.0 201609151714]
 	org.gephi.gephi.branding [0.9.1 0.9.1 201602141952]
+	org.gephi.geolayout.plugin [0.9.1.1 0.9.1.1 201609151712]
 	org.gephi.generator.plugin.ui [0.9.1 0.9.1 201602141959]
 	org.gephi.desktop.banner [0.9.1 0.9.1 201602142003]
 	org.gephi.filters.plugin.ui [0.9.1 0.9.1 201602142003]
@@ -140,7 +158,6 @@ INFO [org.netbeans.core.startup.NbEvents]: Module werden aktiviert:
 	org.gephi.desktop.statistics [0.9.1 0.9.1 201602142000]
 	org.gephi.desktop.recent.files [0.9.1 0.9.1 201602142002]
 	org.gephi.desktop.progress [0.9.1 0.9.1 201602141959]
-	org.gephi.desktop.io.export [0.9.1 0.9.1 201602142002]
 	org.gephi.desktop.preview [0.9.1 0.9.1 201602142004]
 	org.gephi.desktop.layout [0.9.1 0.9.1 201602142004]
 	org.gephi.desktop.import [0.9.1 0.9.1 201602142004]
@@ -153,8 +170,18 @@ INFO [org.netbeans.core.startup.NbEvents]: Module werden aktiviert:
 	org.gephi.appearance.plugin.ui [0.9.1 0.9.1 201602142001]
 	org.gephi.desktop.appearance [0.9.1 0.9.1 201602142001]
 	org.gephi.datalab.plugin [0.9.1 0.9.1 201602142003]
-	org.etosha.g2h [1.0.0 1.0.0 201609171008]
+	org.etosha.g2h [1.0.0 1.0.0 201609171157]
+	org.alexandrebarao.network.splitter.3d [1.0.0 1.0.0 201609151715]
+	org.alexandrebarao.isometric.layout [1.0.0 1.0.0 201609151715]
+	oracle.troubadour.co.uk.oracle.driver [0.0.1 0.0.1 201609151715]
 	nl.cloudfarming.client.lib.platform.l10n [1.1 1.1-NB80 201411231331]
+	net.clementlevallois [1.0.0 1.0.0 201609151714]
+	fr.inria.edelweiss.semantic [1.0.0 1.0.0 201609151714]
+	edu.buaa.act.gephi.plugin.node.color.manager [1.0.0 1.0.0 201609151713]
+	ec.loxa.sna.gephi.websiteexport.loxawebsiteexport [0.3.2 0.3.2 201609151714]
+	cz.cvut.fit.gephi.multimode [1.0.0 1.0.0 201609151713]
+	com.hypercities.exporttoearth [1.0.0 1.0.0 201609151714]
+	ExcelCsvImporter.ExcelCsvImporter [1.0.0 1.0.0 201609151715]
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Mac
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading failed! Trying fallback resolver.
 INFO [org.netbeans.core.network.proxy.fallback.FallbackNetworkProxy]: Fallback system proxy resolver: no http_proxy variable found
@@ -164,10 +191,8 @@ INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network prox
 INFO [org.netbeans.ui.metrics.laf]: USG_LOOK_AND_FEEL
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.gephi.ui.upgrader.Upgrader.getCurrentVersion(Upgrader.java:123)
 INFO: Current Version is target
-INFO: GL_VENDOR: NVIDIA Corporation
-INFO: GL_RENDERER: NVIDIA GeForce GTX 675MX OpenGL Engine
-INFO: GL_VERSION: 2.1 NVIDIA-10.10.13 310.42.25f01
-INFO: GL_SURFACE_SCALE: 1
+init: Bootstrapping class not in Py.BOOTSTRAP_TYPES[class=class org.python.core.PyStringMap]
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.gephi.desktop.scripting.ConsoleTopComponent.newJythonConsole(ConsoleTopComponent.java:164)
 Diagnostic information
 Input arguments:
 	-Djdk.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home
@@ -188,62 +213,13 @@ Input arguments:
 Compiler: HotSpot 64-Bit Tiered Compilers
 Heap memory usage: initial 64,0MB maximum 455,5MB
 Non heap memory usage: initial 2,4MB maximum -1b
-Garbage collector: PS Scavenge (Collections=10 Total time spent=0s)
-Garbage collector: PS MarkSweep (Collections=3 Total time spent=0s)
-Classes: loaded=7385 total loaded=7385 unloaded 0
+Garbage collector: PS Scavenge (Collections=11 Total time spent=0s)
+Garbage collector: PS MarkSweep (Collections=2 Total time spent=0s)
+Classes: loaded=8636 total loaded=8636 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 34.359.738.368
 INFO [null]: Gesamter physischer Speicher 34.359.738.368
 WARNING [org.openide.filesystems.Ordering]: Found same position 100 for both Menu/File/org-etosha-HadoopImporterToolAction.shadow and Menu/File/org-gephi-branding-desktop-actions-NewProject.instance
-WARNING [org.openide.filesystems.Ordering]: Not all children in Menu/Window/ marked with the position attribute: [app-TimedependentMultiLayerNetworkManager.shadow], but some are: [org-gephi-desktop-clustering-ContextTopComponent.shadow, org-gephi-desktop-datalab-DataTableTopComponent.shadow, org-gephi-desktop-filters-FiltersTopComponent.shadow, org-gephi-visualization-component-GraphTopComponent.shadow, org-gephi-desktop-layout-LayoutTopComponent.shadow, org-netbeans-core-io-ui-IOWindowAction.shadow, org-gephi-desktop-preview-PreviewTopComponent.shadow, org-gephi-desktop-preview-PreviewSettingsTopComponent.shadow, org-gephi-desktop-appearance-AppearanceTopComponent.shadow, org-gephi-desktop-welcome-WelcomeAction.shadow, org-gephi-desktop-statistics-StatisticsTopComponent.shadow, org-gephi-desktop-timeline-TimelineWindowAction.shadow, Separator4_1.instance, Separator3.instance, ConfigureWindow, org-netbeans-core-windows-actions-ResetWindowsAction.shadow, Separator4.instance, CloseWindowAction.shadow, GroupsMenuAction.shadow]
+WARNING [org.openide.filesystems.Ordering]: Found same position 333 for both Menu/Window/org-gephi-desktop-scripting-ConsoleTopComponent.shadow and Menu/Window/org-gephi-plugins-twitter-panel-MainTwitterWindows.shadow
+WARNING [org.openide.filesystems.Ordering]: Not all children in Menu/Window/ marked with the position attribute: [app-TimedependentMultiLayerNetworkManager.shadow, cz-cvut-fit-gephi-multimode-MultiModeWindowTopComponent.shadow, fr-inria-edelweiss-SemanticWebImportMainWindowTopComponent.shadow], but some are: [org-gephi-desktop-clustering-ContextTopComponent.shadow, org-gephi-desktop-datalab-DataTableTopComponent.shadow, org-gephi-desktop-scripting-ConsoleTopComponent.shadow, org-gephi-plugins-twitter-panel-MainTwitterWindows.shadow, org-gephi-desktop-filters-FiltersTopComponent.shadow, org-gephi-visualization-component-GraphTopComponent.shadow, org-gephi-desktop-layout-LayoutTopComponent.shadow, org-netbeans-core-io-ui-IOWindowAction.shadow, org-gephi-desktop-preview-PreviewTopComponent.shadow, org-gephi-desktop-preview-PreviewSettingsTopComponent.shadow, org-gephi-desktop-appearance-AppearanceTopComponent.shadow, org-gephi-desktop-welcome-WelcomeAction.shadow, org-gephi-desktop-statistics-StatisticsTopComponent.shadow, org-gephi-desktop-timeline-TimelineWindowAction.shadow, org-gephi-desktop-streaming-StreamingTopComponent.shadow, Separator4_1.instance, Separator3.instance, ConfigureWindow, org-netbeans-core-windows-actions-ResetWindowsAction.shadow, Separator4.instance, CloseWindowAction.shadow, GroupsMenuAction.shadow]
 WARNING [org.netbeans.modules.autoupdate.updateproviders.AutoupdateCatalogFactory]: Services/AutoupdateType/org_gephi_branding_update_center.instance: url_key attribute deprecated in favor of url
 WARNING [org.netbeans.modules.autoupdate.updateproviders.AutoupdateCatalogFactory]: Services/AutoupdateType/org_gephi_branding_update_center_1.instance: url_key attribute deprecated in favor of url
-WARNING [org.netbeans.modules.autoupdate.updateproviders.AutoupdateCatalogFactory]: Services/AutoupdateType/org_gephi_branding_update_center.instance: url_key attribute deprecated in favor of url
-WARNING [org.netbeans.modules.autoupdate.updateproviders.AutoupdateCatalogFactory]: Services/AutoupdateType/org_gephi_branding_update_center_1.instance: url_key attribute deprecated in favor of url
-INFO [DefaultProcessor]: # Nodes loaded: 1.538
-INFO [DefaultProcessor]: # Edges loaded: 8.032
-log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAddCookies).
-log4j:WARN Please initialize the log4j system properly.
-log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
-SEVERE [global]
-java.lang.RuntimeException: Failed : HTTP error code : 401
-	at org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager.loadTMNListeFromMetastore(TimedependentMultiLayerNetworkManager.java:1025)
-	at org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager.jButton8ActionPerformed(TimedependentMultiLayerNetworkManager.java:668)
-	at org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager.access$600(TimedependentMultiLayerNetworkManager.java:76)
-	at org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager$7.actionPerformed(TimedependentMultiLayerNetworkManager.java:306)
-	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
-	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
-	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
-	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
-	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
-	at java.awt.Component.processMouseEvent(Component.java:6533)
-	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
-	at java.awt.Component.processEvent(Component.java:6298)
-	at java.awt.Container.processEvent(Container.java:2236)
-	at java.awt.Component.dispatchEventImpl(Component.java:4889)
-	at java.awt.Container.dispatchEventImpl(Container.java:2294)
-	at java.awt.Component.dispatchEvent(Component.java:4711)
-	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
-	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
-	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
-	at java.awt.Container.dispatchEventImpl(Container.java:2280)
-	at java.awt.Window.dispatchEventImpl(Window.java:2746)
-	at java.awt.Component.dispatchEvent(Component.java:4711)
-	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
-	at java.awt.EventQueue.access$500(EventQueue.java:97)
-	at java.awt.EventQueue$3.run(EventQueue.java:709)
-	at java.awt.EventQueue$3.run(EventQueue.java:703)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
-	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
-	at java.awt.EventQueue$4.run(EventQueue.java:731)
-	at java.awt.EventQueue$4.run(EventQueue.java:729)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
-	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
-	at org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:159)
-[catch] at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
-	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
-	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
-	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
-	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)

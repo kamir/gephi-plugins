@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="uk.ac.ox.oii.jsonexporter.plugin">
+    <module_version install_time="1474114232656" last="true" origin="updater" specification_version="2.0.0">
+        <file crc="3064590023" name="config/Modules/uk-ac-ox-oii-jsonexporter-plugin.xml"/>
+        <file crc="2542102745" name="modules/ext/uk.ac.ox.oii.jsonexporter-plugin/com-google-code-gson/gson.jar"/>
+        <file crc="3970418962" name="modules/uk-ac-ox-oii-jsonexporter-plugin.jar"/>
+    </module_version>
+</module>
