@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.cloudera.cdhc">
+    <module_version install_time="1474050086126" last="true" origin="installer" specification_version="0.5.0">
+        <file crc="1233887948" name="config/Modules/com-cloudera-cdhc.xml"/>
+        <file crc="4241654132" name="modules/com-cloudera-cdhc.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,605 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: org/etosha/g2h/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0.0
+OpenIDE-Module-Implementation-Version: 1.0.0
+OpenIDE-Module-Build-Version: 201609171018
+OpenIDE-Module: org.etosha.g2h
+OpenIDE-Module-Public-Packages: antlr.*, antlr.ASdebug.*, antlr.action
+ s.cpp.*, antlr.actions.csharp.*, antlr.actions.java.*, antlr.actions.
+ python.*, antlr.build.*, antlr.collections.*, antlr.collections.impl.
+ *, antlr.debug.*, antlr.debug.misc.*, antlr.preprocessor.*, com.cloud
+ era.com.jamesmurty.utils.*, com.cloudera.contribs.mx.*, com.cloudera.
+ net.iharder.base64.*, com.cloudera.org.apache.commons.httpclient.cont
+ rib.proxy.*, com.cloudera.org.apache.http.*, com.cloudera.org.apache.
+ http.annotation.*, com.cloudera.org.apache.http.auth.*, com.cloudera.
+ org.apache.http.auth.params.*, com.cloudera.org.apache.http.client.*,
+  com.cloudera.org.apache.http.client.entity.*, com.cloudera.org.apach
+ e.http.client.methods.*, com.cloudera.org.apache.http.client.params.*
+ , com.cloudera.org.apache.http.client.protocol.*, com.cloudera.org.ap
+ ache.http.client.utils.*, com.cloudera.org.apache.http.concurrent.*, 
+ com.cloudera.org.apache.http.conn.*, com.cloudera.org.apache.http.con
+ n.params.*, com.cloudera.org.apache.http.conn.routing.*, com.cloudera
+ .org.apache.http.conn.scheme.*, com.cloudera.org.apache.http.conn.ssl
+ .*, com.cloudera.org.apache.http.conn.util.*, com.cloudera.org.apache
+ .http.cookie.*, com.cloudera.org.apache.http.cookie.params.*, com.clo
+ udera.org.apache.http.entity.*, com.cloudera.org.apache.http.impl.*, 
+ com.cloudera.org.apache.http.impl.auth.*, com.cloudera.org.apache.htt
+ p.impl.client.*, com.cloudera.org.apache.http.impl.conn.*, com.cloude
+ ra.org.apache.http.impl.conn.tsccm.*, com.cloudera.org.apache.http.im
+ pl.cookie.*, com.cloudera.org.apache.http.impl.entity.*, com.cloudera
+ .org.apache.http.impl.io.*, com.cloudera.org.apache.http.impl.pool.*,
+  com.cloudera.org.apache.http.io.*, com.cloudera.org.apache.http.mess
+ age.*, com.cloudera.org.apache.http.params.*, com.cloudera.org.apache
+ .http.pool.*, com.cloudera.org.apache.http.protocol.*, com.cloudera.o
+ rg.apache.http.util.*, com.cloudera.org.jets3t.service.*, com.clouder
+ a.org.jets3t.service.acl.*, com.cloudera.org.jets3t.service.acl.gs.*,
+  com.cloudera.org.jets3t.service.impl.rest.*, com.cloudera.org.jets3t
+ .service.impl.rest.httpclient.*, com.cloudera.org.jets3t.service.io.*
+ , com.cloudera.org.jets3t.service.model.*, com.cloudera.org.jets3t.se
+ rvice.model.cloudfront.*, com.cloudera.org.jets3t.service.model.conta
+ iner.*, com.cloudera.org.jets3t.service.multi.*, com.cloudera.org.jet
+ s3t.service.multi.event.*, com.cloudera.org.jets3t.service.multi.s3.*
+ , com.cloudera.org.jets3t.service.multithread.*, com.cloudera.org.jet
+ s3t.service.mx.*, com.cloudera.org.jets3t.service.security.*, com.clo
+ udera.org.jets3t.service.utils.*, com.cloudera.org.jets3t.service.uti
+ ls.gatekeeper.*, com.cloudera.org.jets3t.service.utils.oauth.*, com.c
+ loudera.org.jets3t.service.utils.signedurl.*, com.facebook.fb303.*, c
+ om.google.common.annotations.*, com.google.common.base.*, com.google.
+ common.base.internal.*, com.google.common.cache.*, com.google.common.
+ collect.*, com.google.common.eventbus.*, com.google.common.hash.*, co
+ m.google.common.io.*, com.google.common.math.*, com.google.common.net
+ .*, com.google.common.primitives.*, com.google.common.util.concurrent
+ .*, com.google.protobuf.*, com.jcraft.jsch.*, com.jcraft.jsch.jce.*, 
+ com.jcraft.jsch.jcraft.*, com.jcraft.jsch.jgss.*, com.linkedin.haivvr
+ eo.*, com.sun.activation.registries.*, com.sun.activation.viewers.*, 
+ com.sun.istack.*, com.sun.istack.localization.*, com.sun.istack.loggi
+ ng.*, com.sun.jersey.api.*, com.sun.jersey.api.container.*, com.sun.j
+ ersey.api.container.filter.*, com.sun.jersey.api.container.httpserver
+ .*, com.sun.jersey.api.core.*, com.sun.jersey.api.json.*, com.sun.jer
+ sey.api.model.*, com.sun.jersey.api.provider.jaxb.*, com.sun.jersey.a
+ pi.representation.*, com.sun.jersey.api.uri.*, com.sun.jersey.api.vie
+ w.*, com.sun.jersey.api.wadl.*, com.sun.jersey.api.wadl.config.*, com
+ .sun.jersey.core.header.*, com.sun.jersey.core.header.reader.*, com.s
+ un.jersey.core.impl.provider.entity.*, com.sun.jersey.core.impl.provi
+ der.header.*, com.sun.jersey.core.impl.provider.xml.*, com.sun.jersey
+ .core.osgi.*, com.sun.jersey.core.provider.*, com.sun.jersey.core.pro
+ vider.jaxb.*, com.sun.jersey.core.reflection.*, com.sun.jersey.core.s
+ pi.component.*, com.sun.jersey.core.spi.component.ioc.*, com.sun.jers
+ ey.core.spi.factory.*, com.sun.jersey.core.spi.scanning.*, com.sun.je
+ rsey.core.spi.scanning.uri.*, com.sun.jersey.core.util.*, com.sun.jer
+ sey.impl.*, com.sun.jersey.json.impl.*, com.sun.jersey.json.impl.prov
+ ider.entity.*, com.sun.jersey.json.impl.reader.*, com.sun.jersey.json
+ .impl.writer.*, com.sun.jersey.localization.*, com.sun.jersey.server.
+ impl.*, com.sun.jersey.server.impl.application.*, com.sun.jersey.serv
+ er.impl.cdi.*, com.sun.jersey.server.impl.component.*, com.sun.jersey
+ .server.impl.container.*, com.sun.jersey.server.impl.container.filter
+ .*, com.sun.jersey.server.impl.container.httpserver.*, com.sun.jersey
+ .server.impl.container.servlet.*, com.sun.jersey.server.impl.ejb.*, c
+ om.sun.jersey.server.impl.inject.*, com.sun.jersey.server.impl.manage
+ dbeans.*, com.sun.jersey.server.impl.model.*, com.sun.jersey.server.i
+ mpl.model.method.*, com.sun.jersey.server.impl.model.method.dispatch.
+ *, com.sun.jersey.server.impl.model.parameter.*, com.sun.jersey.serve
+ r.impl.model.parameter.multivalued.*, com.sun.jersey.server.impl.mode
+ lapi.annotation.*, com.sun.jersey.server.impl.modelapi.validation.*, 
+ com.sun.jersey.server.impl.monitoring.*, com.sun.jersey.server.impl.p
+ rovider.*, com.sun.jersey.server.impl.resource.*, com.sun.jersey.serv
+ er.impl.template.*, com.sun.jersey.server.impl.uri.*, com.sun.jersey.
+ server.impl.uri.rules.*, com.sun.jersey.server.impl.uri.rules.automat
+ a.*, com.sun.jersey.server.impl.wadl.*, com.sun.jersey.server.osgi.*,
+  com.sun.jersey.server.probes.*, com.sun.jersey.server.spi.component.
+ *, com.sun.jersey.server.wadl.*, com.sun.jersey.server.wadl.generator
+ s.*, com.sun.jersey.server.wadl.generators.resourcedoc.*, com.sun.jer
+ sey.server.wadl.generators.resourcedoc.model.*, com.sun.jersey.server
+ .wadl.generators.resourcedoc.xhtml.*, com.sun.jersey.spi.*, com.sun.j
+ ersey.spi.container.*, com.sun.jersey.spi.container.servlet.*, com.su
+ n.jersey.spi.dispatch.*, com.sun.jersey.spi.inject.*, com.sun.jersey.
+ spi.monitoring.*, com.sun.jersey.spi.resource.*, com.sun.jersey.spi.s
+ canning.*, com.sun.jersey.spi.service.*, com.sun.jersey.spi.template.
+ *, com.sun.jersey.spi.uri.rules.*, com.sun.research.ws.wadl.*, com.su
+ n.xml.bind.*, com.sun.xml.bind.annotation.*, com.sun.xml.bind.api.*, 
+ com.sun.xml.bind.api.impl.*, com.sun.xml.bind.marshaller.*, com.sun.x
+ ml.bind.unmarshaller.*, com.sun.xml.bind.util.*, com.sun.xml.bind.v2.
+ *, com.sun.xml.bind.v2.bytecode.*, com.sun.xml.bind.v2.model.annotati
+ on.*, com.sun.xml.bind.v2.model.core.*, com.sun.xml.bind.v2.model.imp
+ l.*, com.sun.xml.bind.v2.model.nav.*, com.sun.xml.bind.v2.model.runti
+ me.*, com.sun.xml.bind.v2.runtime.*, com.sun.xml.bind.v2.runtime.outp
+ ut.*, com.sun.xml.bind.v2.runtime.property.*, com.sun.xml.bind.v2.run
+ time.reflect.*, com.sun.xml.bind.v2.runtime.reflect.opt.*, com.sun.xm
+ l.bind.v2.runtime.unmarshaller.*, com.sun.xml.bind.v2.schemagen.*, co
+ m.sun.xml.bind.v2.schemagen.episode.*, com.sun.xml.bind.v2.schemagen.
+ xmlschema.*, com.sun.xml.bind.v2.util.*, com.sun.xml.txw2.*, com.sun.
+ xml.txw2.annotation.*, com.sun.xml.txw2.output.*, com.thoughtworks.pa
+ ranamer.*, javaewah.*, javax.activation.*, javax.annotation.*, javax.
+ annotation.concurrent.*, javax.annotation.meta.*, javax.el.*, javax.j
+ do.*, javax.jdo.annotations.*, javax.jdo.datastore.*, javax.jdo.ident
+ ity.*, javax.jdo.listener.*, javax.jdo.metadata.*, javax.jdo.spi.*, j
+ avax.realtime.*, javax.servlet.*, javax.servlet.http.*, javax.servlet
+ .jsp.*, javax.servlet.jsp.el.*, javax.servlet.jsp.tagext.*, javax.tra
+ nsaction.*, javax.transaction.xa.*, javax.ws.rs.*, javax.ws.rs.core.*
+ , javax.ws.rs.ext.*, javax.xml.*, javax.xml.bind.*, javax.xml.bind.an
+ notation.*, javax.xml.bind.annotation.adapters.*, javax.xml.bind.atta
+ chment.*, javax.xml.bind.helpers.*, javax.xml.bind.util.*, javax.xml.
+ namespace.*, javax.xml.stream.*, javax.xml.stream.events.*, javax.xml
+ .stream.util.*, javolution.context.*, javolution.io.*, javolution.lan
+ g.*, javolution.testing.*, javolution.text.*, javolution.util.*, javo
+ lution.xml.*, javolution.xml.sax.*, javolution.xml.stream.*, javoluti
+ on.xml.ws.*, jline.*, junit.extensions.*, junit.framework.*, junit.ru
+ nner.*, junit.textui.*, org.antlr.*, org.antlr.analysis.*, org.antlr.
+ codegen.*, org.antlr.grammar.v3.*, org.antlr.misc.*, org.antlr.runtim
+ e.*, org.antlr.runtime.debug.*, org.antlr.runtime.misc.*, org.antlr.r
+ untime.tree.*, org.antlr.stringtemplate.*, org.antlr.stringtemplate.l
+ anguage.*, org.antlr.stringtemplate.misc.*, org.antlr.tool.*, org.apa
+ che.avro.*, org.apache.avro.compiler.specific.*, org.apache.avro.data
+ .*, org.apache.avro.file.*, org.apache.avro.generic.*, org.apache.avr
+ o.hadoop.file.*, org.apache.avro.hadoop.io.*, org.apache.avro.hadoop.
+ util.*, org.apache.avro.io.*, org.apache.avro.io.parsing.*, org.apach
+ e.avro.ipc.*, org.apache.avro.ipc.generic.*, org.apache.avro.ipc.refl
+ ect.*, org.apache.avro.ipc.specific.*, org.apache.avro.ipc.stats.*, o
+ rg.apache.avro.ipc.trace.*, org.apache.avro.mapred.*, org.apache.avro
+ .mapred.tether.*, org.apache.avro.mapreduce.*, org.apache.avro.reflec
+ t.*, org.apache.avro.specific.*, org.apache.avro.test.*, org.apache.a
+ vro.test.errors.*, org.apache.avro.test.namespace.*, org.apache.avro.
+ test.util.*, org.apache.avro.util.*, org.apache.commons.beanutils.*, 
+ org.apache.commons.beanutils.converters.*, org.apache.commons.beanuti
+ ls.expression.*, org.apache.commons.beanutils.locale.*, org.apache.co
+ mmons.beanutils.locale.converters.*, org.apache.commons.cli.*, org.ap
+ ache.commons.codec.*, org.apache.commons.codec.binary.*, org.apache.c
+ ommons.codec.digest.*, org.apache.commons.codec.language.*, org.apach
+ e.commons.codec.net.*, org.apache.commons.collections.*, org.apache.c
+ ommons.collections.bag.*, org.apache.commons.collections.bidimap.*, o
+ rg.apache.commons.collections.buffer.*, org.apache.commons.collection
+ s.collection.*, org.apache.commons.collections.comparators.*, org.apa
+ che.commons.collections.functors.*, org.apache.commons.collections.it
+ erators.*, org.apache.commons.collections.keyvalue.*, org.apache.comm
+ ons.collections.list.*, org.apache.commons.collections.map.*, org.apa
+ che.commons.collections.set.*, org.apache.commons.compress.archivers.
+ *, org.apache.commons.compress.archivers.ar.*, org.apache.commons.com
+ press.archivers.cpio.*, org.apache.commons.compress.archivers.dump.*,
+  org.apache.commons.compress.archivers.jar.*, org.apache.commons.comp
+ ress.archivers.tar.*, org.apache.commons.compress.archivers.zip.*, or
+ g.apache.commons.compress.changes.*, org.apache.commons.compress.comp
+ ressors.*, org.apache.commons.compress.compressors.bzip2.*, org.apach
+ e.commons.compress.compressors.gzip.*, org.apache.commons.compress.co
+ mpressors.pack200.*, org.apache.commons.compress.compressors.xz.*, or
+ g.apache.commons.compress.utils.*, org.apache.commons.configuration.*
+ , org.apache.commons.configuration.beanutils.*, org.apache.commons.co
+ nfiguration.event.*, org.apache.commons.configuration.interpol.*, org
+ .apache.commons.configuration.plist.*, org.apache.commons.configurati
+ on.reloading.*, org.apache.commons.configuration.tree.*, org.apache.c
+ ommons.configuration.tree.xpath.*, org.apache.commons.configuration.w
+ eb.*, org.apache.commons.dbcp.*, org.apache.commons.dbcp.cpdsadapter.
+ *, org.apache.commons.dbcp.datasources.*, org.apache.commons.dbcp.man
+ aged.*, org.apache.commons.digester.*, org.apache.commons.digester.pa
+ rser.*, org.apache.commons.digester.plugins.*, org.apache.commons.dig
+ ester.plugins.strategies.*, org.apache.commons.digester.substitution.
+ *, org.apache.commons.digester.xmlrules.*, org.apache.commons.el.*, o
+ rg.apache.commons.el.parser.*, org.apache.commons.httpclient.*, org.a
+ pache.commons.httpclient.auth.*, org.apache.commons.httpclient.contri
+ b.proxy.*, org.apache.commons.httpclient.cookie.*, org.apache.commons
+ .httpclient.methods.*, org.apache.commons.httpclient.methods.multipar
+ t.*, org.apache.commons.httpclient.params.*, org.apache.commons.httpc
+ lient.protocol.*, org.apache.commons.httpclient.util.*, org.apache.co
+ mmons.io.*, org.apache.commons.io.comparator.*, org.apache.commons.io
+ .filefilter.*, org.apache.commons.io.input.*, org.apache.commons.io.m
+ onitor.*, org.apache.commons.io.output.*, org.apache.commons.jocl.*, 
+ org.apache.commons.lang.*, org.apache.commons.lang.builder.*, org.apa
+ che.commons.lang.enums.*, org.apache.commons.lang.exception.*, org.ap
+ ache.commons.lang.math.*, org.apache.commons.lang.mutable.*, org.apac
+ he.commons.lang.reflect.*, org.apache.commons.lang.text.*, org.apache
+ .commons.lang.time.*, org.apache.commons.logging.*, org.apache.common
+ s.logging.impl.*, org.apache.commons.math.*, org.apache.commons.math.
+ analysis.*, org.apache.commons.math.analysis.integration.*, org.apach
+ e.commons.math.analysis.interpolation.*, org.apache.commons.math.anal
+ ysis.polynomials.*, org.apache.commons.math.analysis.solvers.*, org.a
+ pache.commons.math.complex.*, org.apache.commons.math.distribution.*,
+  org.apache.commons.math.estimation.*, org.apache.commons.math.fracti
+ on.*, org.apache.commons.math.genetics.*, org.apache.commons.math.geo
+ metry.*, org.apache.commons.math.linear.*, org.apache.commons.math.od
+ e.*, org.apache.commons.math.ode.events.*, org.apache.commons.math.od
+ e.jacobians.*, org.apache.commons.math.ode.nonstiff.*, org.apache.com
+ mons.math.ode.sampling.*, org.apache.commons.math.optimization.*, org
+ .apache.commons.math.optimization.direct.*, org.apache.commons.math.o
+ ptimization.fitting.*, org.apache.commons.math.optimization.general.*
+ , org.apache.commons.math.optimization.linear.*, org.apache.commons.m
+ ath.optimization.univariate.*, org.apache.commons.math.random.*, org.
+ apache.commons.math.special.*, org.apache.commons.math.stat.*, org.ap
+ ache.commons.math.stat.clustering.*, org.apache.commons.math.stat.cor
+ relation.*, org.apache.commons.math.stat.descriptive.*, org.apache.co
+ mmons.math.stat.descriptive.moment.*, org.apache.commons.math.stat.de
+ scriptive.rank.*, org.apache.commons.math.stat.descriptive.summary.*,
+  org.apache.commons.math.stat.inference.*, org.apache.commons.math.st
+ at.ranking.*, org.apache.commons.math.stat.regression.*, org.apache.c
+ ommons.math.transform.*, org.apache.commons.math.util.*, org.apache.c
+ ommons.net.*, org.apache.commons.net.bsd.*, org.apache.commons.net.ch
+ argen.*, org.apache.commons.net.daytime.*, org.apache.commons.net.dis
+ card.*, org.apache.commons.net.echo.*, org.apache.commons.net.finger.
+ *, org.apache.commons.net.ftp.*, org.apache.commons.net.ftp.parser.*,
+  org.apache.commons.net.imap.*, org.apache.commons.net.io.*, org.apac
+ he.commons.net.nntp.*, org.apache.commons.net.ntp.*, org.apache.commo
+ ns.net.pop3.*, org.apache.commons.net.smtp.*, org.apache.commons.net.
+ telnet.*, org.apache.commons.net.tftp.*, org.apache.commons.net.time.
+ *, org.apache.commons.net.util.*, org.apache.commons.net.whois.*, org
+ .apache.commons.pool.*, org.apache.commons.pool.impl.*, org.apache.de
+ rby.authentication.*, org.apache.derby.catalog.*, org.apache.derby.ca
+ talog.types.*, org.apache.derby.database.*, org.apache.derby.diag.*, 
+ org.apache.derby.iapi.db.*, org.apache.derby.iapi.error.*, org.apache
+ .derby.iapi.jdbc.*, org.apache.derby.iapi.security.*, org.apache.derb
+ y.iapi.services.cache.*, org.apache.derby.iapi.services.classfile.*, 
+ org.apache.derby.iapi.services.compiler.*, org.apache.derby.iapi.serv
+ ices.context.*, org.apache.derby.iapi.services.crypto.*, org.apache.d
+ erby.iapi.services.daemon.*, org.apache.derby.iapi.services.diag.*, o
+ rg.apache.derby.iapi.services.i18n.*, org.apache.derby.iapi.services.
+ info.*, org.apache.derby.iapi.services.io.*, org.apache.derby.iapi.se
+ rvices.jmx.*, org.apache.derby.iapi.services.loader.*, org.apache.der
+ by.iapi.services.locks.*, org.apache.derby.iapi.services.memory.*, or
+ g.apache.derby.iapi.services.monitor.*, org.apache.derby.iapi.service
+ s.property.*, org.apache.derby.iapi.services.stream.*, org.apache.der
+ by.iapi.services.timer.*, org.apache.derby.iapi.services.uuid.*, org.
+ apache.derby.iapi.sql.*, org.apache.derby.iapi.sql.compile.*, org.apa
+ che.derby.iapi.sql.conn.*, org.apache.derby.iapi.sql.depend.*, org.ap
+ ache.derby.iapi.sql.dictionary.*, org.apache.derby.iapi.sql.execute.*
+ , org.apache.derby.iapi.sql.execute.xplain.*, org.apache.derby.iapi.s
+ tore.access.*, org.apache.derby.iapi.store.access.conglomerate.*, org
+ .apache.derby.iapi.store.access.xa.*, org.apache.derby.iapi.store.raw
+ .*, org.apache.derby.iapi.store.raw.data.*, org.apache.derby.iapi.sto
+ re.raw.log.*, org.apache.derby.iapi.store.raw.xact.*, org.apache.derb
+ y.iapi.store.replication.master.*, org.apache.derby.iapi.store.replic
+ ation.slave.*, org.apache.derby.iapi.tools.i18n.*, org.apache.derby.i
+ api.types.*, org.apache.derby.iapi.util.*, org.apache.derby.impl.db.*
+ , org.apache.derby.impl.io.*, org.apache.derby.impl.io.vfmem.*, org.a
+ pache.derby.impl.jdbc.*, org.apache.derby.impl.jdbc.authentication.*,
+  org.apache.derby.impl.load.*, org.apache.derby.impl.services.bytecod
+ e.*, org.apache.derby.impl.services.cache.*, org.apache.derby.impl.se
+ rvices.daemon.*, org.apache.derby.impl.services.jce.*, org.apache.der
+ by.impl.services.jmx.*, org.apache.derby.impl.services.jmxnone.*, org
+ .apache.derby.impl.services.locks.*, org.apache.derby.impl.services.m
+ onitor.*, org.apache.derby.impl.services.reflect.*, org.apache.derby.
+ impl.services.stream.*, org.apache.derby.impl.services.timer.*, org.a
+ pache.derby.impl.services.uuid.*, org.apache.derby.impl.sql.*, org.ap
+ ache.derby.impl.sql.catalog.*, org.apache.derby.impl.sql.compile.*, o
+ rg.apache.derby.impl.sql.conn.*, org.apache.derby.impl.sql.depend.*, 
+ org.apache.derby.impl.sql.execute.*, org.apache.derby.impl.sql.execut
+ e.rts.*, org.apache.derby.impl.sql.execute.xplain.*, org.apache.derby
+ .impl.store.access.*, org.apache.derby.impl.store.access.btree.*, org
+ .apache.derby.impl.store.access.btree.index.*, org.apache.derby.impl.
+ store.access.conglomerate.*, org.apache.derby.impl.store.access.heap.
+ *, org.apache.derby.impl.store.access.sort.*, org.apache.derby.impl.s
+ tore.raw.*, org.apache.derby.impl.store.raw.data.*, org.apache.derby.
+ impl.store.raw.log.*, org.apache.derby.impl.store.raw.xact.*, org.apa
+ che.derby.impl.store.replication.*, org.apache.derby.impl.store.repli
+ cation.buffer.*, org.apache.derby.impl.store.replication.master.*, or
+ g.apache.derby.impl.store.replication.net.*, org.apache.derby.impl.st
+ ore.replication.slave.*, org.apache.derby.impl.tools.sysinfo.*, org.a
+ pache.derby.io.*, org.apache.derby.jdbc.*, org.apache.derby.mbeans.*,
+  org.apache.derby.osgi.*, org.apache.derby.security.*, org.apache.der
+ by.shared.common.error.*, org.apache.derby.shared.common.sanity.*, or
+ g.apache.derby.tools.*, org.apache.derby.vti.*, org.apache.hadoop.*, 
+ org.apache.hadoop.classification.*, org.apache.hadoop.classification.
+ tools.*, org.apache.hadoop.conf.*, org.apache.hadoop.fs.*, org.apache
+ .hadoop.fs.ftp.*, org.apache.hadoop.fs.kfs.*, org.apache.hadoop.fs.lo
+ cal.*, org.apache.hadoop.fs.permission.*, org.apache.hadoop.fs.s3.*, 
+ org.apache.hadoop.fs.s3native.*, org.apache.hadoop.fs.shell.*, org.ap
+ ache.hadoop.fs.viewfs.*, org.apache.hadoop.ha.*, org.apache.hadoop.ha
+ .proto.*, org.apache.hadoop.ha.protocolPB.*, org.apache.hadoop.hive.c
+ ommon.*, org.apache.hadoop.hive.common.classification.*, org.apache.h
+ adoop.hive.common.cli.*, org.apache.hadoop.hive.common.io.*, org.apac
+ he.hadoop.hive.common.metrics.*, org.apache.hadoop.hive.conf.*, org.a
+ pache.hadoop.hive.contrib.fileformat.base64.*, org.apache.hadoop.hive
+ .contrib.genericudf.example.*, org.apache.hadoop.hive.contrib.metasto
+ re.hooks.*, org.apache.hadoop.hive.contrib.mr.*, org.apache.hadoop.hi
+ ve.contrib.mr.example.*, org.apache.hadoop.hive.contrib.serde2.*, org
+ .apache.hadoop.hive.contrib.serde2.s3.*, org.apache.hadoop.hive.contr
+ ib.udaf.example.*, org.apache.hadoop.hive.contrib.udf.*, org.apache.h
+ adoop.hive.contrib.udf.example.*, org.apache.hadoop.hive.contrib.udtf
+ .example.*, org.apache.hadoop.hive.contrib.util.typedbytes.*, org.apa
+ che.hadoop.hive.io.*, org.apache.hadoop.hive.jdbc.*, org.apache.hadoo
+ p.hive.metastore.*, org.apache.hadoop.hive.metastore.api.*, org.apach
+ e.hadoop.hive.metastore.events.*, org.apache.hadoop.hive.metastore.ho
+ oks.*, org.apache.hadoop.hive.metastore.model.*, org.apache.hadoop.hi
+ ve.metastore.parser.*, org.apache.hadoop.hive.metastore.tools.*, org.
+ apache.hadoop.hive.ql.*, org.apache.hadoop.hive.ql.exec.*, org.apache
+ .hadoop.hive.ql.exec.errors.*, org.apache.hadoop.hive.ql.exec.persist
+ ence.*, org.apache.hadoop.hive.ql.history.*, org.apache.hadoop.hive.q
+ l.hooks.*, org.apache.hadoop.hive.ql.index.*, org.apache.hadoop.hive.
+ ql.index.bitmap.*, org.apache.hadoop.hive.ql.index.compact.*, org.apa
+ che.hadoop.hive.ql.io.*, org.apache.hadoop.hive.ql.io.avro.*, org.apa
+ che.hadoop.hive.ql.io.rcfile.merge.*, org.apache.hadoop.hive.ql.lib.*
+ , org.apache.hadoop.hive.ql.lockmgr.*, org.apache.hadoop.hive.ql.lock
+ mgr.zookeeper.*, org.apache.hadoop.hive.ql.log.*, org.apache.hadoop.h
+ ive.ql.metadata.*, org.apache.hadoop.hive.ql.metadata.formatting.*, o
+ rg.apache.hadoop.hive.ql.optimizer.*, org.apache.hadoop.hive.ql.optim
+ izer.index.*, org.apache.hadoop.hive.ql.optimizer.lineage.*, org.apac
+ he.hadoop.hive.ql.optimizer.listbucketingpruner.*, org.apache.hadoop.
+ hive.ql.optimizer.pcr.*, org.apache.hadoop.hive.ql.optimizer.physical
+ .*, org.apache.hadoop.hive.ql.optimizer.physical.index.*, org.apache.
+ hadoop.hive.ql.optimizer.ppr.*, org.apache.hadoop.hive.ql.optimizer.u
+ nionproc.*, org.apache.hadoop.hive.ql.parse.*, org.apache.hadoop.hive
+ .ql.plan.*, org.apache.hadoop.hive.ql.plan.api.*, org.apache.hadoop.h
+ ive.ql.ppd.*, org.apache.hadoop.hive.ql.processors.*, org.apache.hado
+ op.hive.ql.security.*, org.apache.hadoop.hive.ql.security.authorizati
+ on.*, org.apache.hadoop.hive.ql.session.*, org.apache.hadoop.hive.ql.
+ stats.*, org.apache.hadoop.hive.ql.stats.jdbc.*, org.apache.hadoop.hi
+ ve.ql.tools.*, org.apache.hadoop.hive.ql.udf.*, org.apache.hadoop.hiv
+ e.ql.udf.generic.*, org.apache.hadoop.hive.ql.udf.xml.*, org.apache.h
+ adoop.hive.ql.util.*, org.apache.hadoop.hive.serde.*, org.apache.hado
+ op.hive.serde.test.*, org.apache.hadoop.hive.serde2.*, org.apache.had
+ oop.hive.serde2.avro.*, org.apache.hadoop.hive.serde2.binarysortable.
+ *, org.apache.hadoop.hive.serde2.columnar.*, org.apache.hadoop.hive.s
+ erde2.dynamic_type.*, org.apache.hadoop.hive.serde2.io.*, org.apache.
+ hadoop.hive.serde2.lazy.*, org.apache.hadoop.hive.serde2.lazy.objecti
+ nspector.*, org.apache.hadoop.hive.serde2.lazy.objectinspector.primit
+ ive.*, org.apache.hadoop.hive.serde2.lazybinary.*, org.apache.hadoop.
+ hive.serde2.lazybinary.objectinspector.*, org.apache.hadoop.hive.serd
+ e2.lazydio.*, org.apache.hadoop.hive.serde2.objectinspector.*, org.ap
+ ache.hadoop.hive.serde2.objectinspector.primitive.*, org.apache.hadoo
+ p.hive.serde2.proto.test.*, org.apache.hadoop.hive.serde2.thrift.*, o
+ rg.apache.hadoop.hive.serde2.thrift.test.*, org.apache.hadoop.hive.se
+ rde2.typeinfo.*, org.apache.hadoop.hive.service.*, org.apache.hadoop.
+ hive.shims.*, org.apache.hadoop.hive.thrift.*, org.apache.hadoop.hive
+ .thrift.client.*, org.apache.hadoop.http.*, org.apache.hadoop.http.li
+ b.*, org.apache.hadoop.io.*, org.apache.hadoop.io.compress.*, org.apa
+ che.hadoop.io.compress.bzip2.*, org.apache.hadoop.io.compress.lz4.*, 
+ org.apache.hadoop.io.compress.snappy.*, org.apache.hadoop.io.compress
+ .zlib.*, org.apache.hadoop.io.file.tfile.*, org.apache.hadoop.io.nati
+ veio.*, org.apache.hadoop.io.retry.*, org.apache.hadoop.io.serializer
+ .*, org.apache.hadoop.io.serializer.avro.*, org.apache.hadoop.ipc.*, 
+ org.apache.hadoop.ipc.metrics.*, org.apache.hadoop.ipc.protobuf.*, or
+ g.apache.hadoop.jmx.*, org.apache.hadoop.log.*, org.apache.hadoop.log
+ .metrics.*, org.apache.hadoop.metrics.*, org.apache.hadoop.metrics.fi
+ le.*, org.apache.hadoop.metrics.ganglia.*, org.apache.hadoop.metrics.
+ jvm.*, org.apache.hadoop.metrics.spi.*, org.apache.hadoop.metrics.uti
+ l.*, org.apache.hadoop.metrics2.*, org.apache.hadoop.metrics2.annotat
+ ion.*, org.apache.hadoop.metrics2.filter.*, org.apache.hadoop.metrics
+ 2.impl.*, org.apache.hadoop.metrics2.lib.*, org.apache.hadoop.metrics
+ 2.sink.*, org.apache.hadoop.metrics2.sink.ganglia.*, org.apache.hadoo
+ p.metrics2.source.*, org.apache.hadoop.metrics2.util.*, org.apache.ha
+ doop.net.*, org.apache.hadoop.net.unix.*, org.apache.hadoop.record.*,
+  org.apache.hadoop.record.compiler.*, org.apache.hadoop.record.compil
+ er.ant.*, org.apache.hadoop.record.compiler.generated.*, org.apache.h
+ adoop.record.meta.*, org.apache.hadoop.security.*, org.apache.hadoop.
+ security.authentication.client.*, org.apache.hadoop.security.authenti
+ cation.server.*, org.apache.hadoop.security.authentication.util.*, or
+ g.apache.hadoop.security.authorize.*, org.apache.hadoop.security.ssl.
+ *, org.apache.hadoop.security.token.*, org.apache.hadoop.security.tok
+ en.delegation.*, org.apache.hadoop.tools.*, org.apache.hadoop.util.*,
+  org.apache.hadoop.util.bloom.*, org.apache.hadoop.util.hash.*, org.a
+ pache.hive.common.*, org.apache.hive.common.util.*, org.apache.hive.j
+ dbc.*, org.apache.hive.service.*, org.apache.hive.service.auth.*, org
+ .apache.hive.service.cli.*, org.apache.hive.service.cli.log.*, org.ap
+ ache.hive.service.cli.operation.*, org.apache.hive.service.cli.sessio
+ n.*, org.apache.hive.service.cli.thrift.*, org.apache.hive.service.se
+ rver.*, org.apache.http.*, org.apache.http.annotation.*, org.apache.h
+ ttp.auth.*, org.apache.http.auth.params.*, org.apache.http.client.*, 
+ org.apache.http.client.config.*, org.apache.http.client.entity.*, org
+ .apache.http.client.methods.*, org.apache.http.client.params.*, org.a
+ pache.http.client.protocol.*, org.apache.http.client.utils.*, org.apa
+ che.http.concurrent.*, org.apache.http.config.*, org.apache.http.conn
+ .*, org.apache.http.conn.params.*, org.apache.http.conn.routing.*, or
+ g.apache.http.conn.scheme.*, org.apache.http.conn.socket.*, org.apach
+ e.http.conn.ssl.*, org.apache.http.conn.util.*, org.apache.http.cooki
+ e.*, org.apache.http.cookie.params.*, org.apache.http.entity.*, org.a
+ pache.http.impl.*, org.apache.http.impl.auth.*, org.apache.http.impl.
+ client.*, org.apache.http.impl.conn.*, org.apache.http.impl.conn.tscc
+ m.*, org.apache.http.impl.cookie.*, org.apache.http.impl.entity.*, or
+ g.apache.http.impl.execchain.*, org.apache.http.impl.io.*, org.apache
+ .http.impl.pool.*, org.apache.http.io.*, org.apache.http.message.*, o
+ rg.apache.http.params.*, org.apache.http.pool.*, org.apache.http.prot
+ ocol.*, org.apache.http.util.*, org.apache.jasper.*, org.apache.jaspe
+ r.compiler.*, org.apache.jasper.compiler.tagplugin.*, org.apache.jasp
+ er.runtime.*, org.apache.jasper.security.*, org.apache.jasper.servlet
+ .*, org.apache.jasper.tagplugins.jstl.*, org.apache.jasper.tagplugins
+ .jstl.core.*, org.apache.jasper.util.*, org.apache.jasper.xmlparser.*
+ , org.apache.jute.*, org.apache.jute.compiler.*, org.apache.jute.comp
+ iler.generated.*, org.apache.log4j.*, org.apache.log4j.chainsaw.*, or
+ g.apache.log4j.config.*, org.apache.log4j.helpers.*, org.apache.log4j
+ .jdbc.*, org.apache.log4j.jmx.*, org.apache.log4j.lf5.*, org.apache.l
+ og4j.lf5.util.*, org.apache.log4j.lf5.viewer.*, org.apache.log4j.lf5.
+ viewer.categoryexplorer.*, org.apache.log4j.lf5.viewer.configure.*, o
+ rg.apache.log4j.net.*, org.apache.log4j.nt.*, org.apache.log4j.or.*, 
+ org.apache.log4j.or.jms.*, org.apache.log4j.or.sax.*, org.apache.log4
+ j.pattern.*, org.apache.log4j.rewrite.*, org.apache.log4j.spi.*, org.
+ apache.log4j.varia.*, org.apache.log4j.xml.*, org.apache.thrift.*, or
+ g.apache.thrift.async.*, org.apache.thrift.meta_data.*, org.apache.th
+ rift.protocol.*, org.apache.thrift.scheme.*, org.apache.thrift.server
+ .*, org.apache.thrift.transport.*, org.apache.velocity.*, org.apache.
+ velocity.anakia.*, org.apache.velocity.app.*, org.apache.velocity.app
+ .event.*, org.apache.velocity.app.event.implement.*, org.apache.veloc
+ ity.app.tools.*, org.apache.velocity.context.*, org.apache.velocity.c
+ onvert.*, org.apache.velocity.exception.*, org.apache.velocity.io.*, 
+ org.apache.velocity.runtime.*, org.apache.velocity.runtime.directive.
+ *, org.apache.velocity.runtime.log.*, org.apache.velocity.runtime.par
+ ser.*, org.apache.velocity.runtime.parser.node.*, org.apache.velocity
+ .runtime.resource.*, org.apache.velocity.runtime.resource.loader.*, o
+ rg.apache.velocity.runtime.resource.util.*, org.apache.velocity.runti
+ me.visitor.*, org.apache.velocity.servlet.*, org.apache.velocity.texe
+ n.*, org.apache.velocity.texen.ant.*, org.apache.velocity.texen.util.
+ *, org.apache.velocity.util.*, org.apache.velocity.util.introspection
+ .*, org.apache.zookeeper.*, org.apache.zookeeper.client.*, org.apache
+ .zookeeper.common.*, org.apache.zookeeper.data.*, org.apache.zookeepe
+ r.jmx.*, org.apache.zookeeper.proto.*, org.apache.zookeeper.server.*,
+  org.apache.zookeeper.server.auth.*, org.apache.zookeeper.server.pers
+ istence.*, org.apache.zookeeper.server.quorum.*, org.apache.zookeeper
+ .server.quorum.flexible.*, org.apache.zookeeper.server.upgrade.*, org
+ .apache.zookeeper.server.util.*, org.apache.zookeeper.txn.*, org.apac
+ he.zookeeper.version.*, org.apache.zookeeper.version.util.*, org.code
+ haus.jackson.*, org.codehaus.jackson.annotate.*, org.codehaus.jackson
+ .format.*, org.codehaus.jackson.impl.*, org.codehaus.jackson.io.*, or
+ g.codehaus.jackson.jaxrs.*, org.codehaus.jackson.map.*, org.codehaus.
+ jackson.map.annotate.*, org.codehaus.jackson.map.deser.*, org.codehau
+ s.jackson.map.deser.impl.*, org.codehaus.jackson.map.exc.*, org.codeh
+ aus.jackson.map.ext.*, org.codehaus.jackson.map.introspect.*, org.cod
+ ehaus.jackson.map.jsontype.*, org.codehaus.jackson.map.jsontype.impl.
+ *, org.codehaus.jackson.map.module.*, org.codehaus.jackson.map.ser.*,
+  org.codehaus.jackson.map.ser.impl.*, org.codehaus.jackson.map.type.*
+ , org.codehaus.jackson.map.util.*, org.codehaus.jackson.node.*, org.c
+ odehaus.jackson.schema.*, org.codehaus.jackson.sym.*, org.codehaus.ja
+ ckson.type.*, org.codehaus.jackson.util.*, org.codehaus.jackson.xc.*,
+  org.codehaus.jettison.*, org.codehaus.jettison.badgerfish.*, org.cod
+ ehaus.jettison.json.*, org.codehaus.jettison.mapped.*, org.codehaus.j
+ ettison.util.*, org.datanucleus.*, org.datanucleus.api.*, org.datanuc
+ leus.api.jdo.*, org.datanucleus.api.jdo.exceptions.*, org.datanucleus
+ .api.jdo.metadata.*, org.datanucleus.api.jdo.query.*, org.datanucleus
+ .api.jdo.state.*, org.datanucleus.asm.*, org.datanucleus.cache.*, org
+ .datanucleus.enhancer.*, org.datanucleus.enhancer.asm.*, org.datanucl
+ eus.enhancer.asm.method.*, org.datanucleus.enhancer.asm.primarykey.*,
+  org.datanucleus.enhancer.jdo.*, org.datanucleus.enhancer.jdo.method.
+ *, org.datanucleus.enhancer.spi.*, org.datanucleus.enhancer.tools.*, 
+ org.datanucleus.exceptions.*, org.datanucleus.identity.*, org.datanuc
+ leus.jdo.*, org.datanucleus.management.*, org.datanucleus.management.
+ jmx.*, org.datanucleus.metadata.*, org.datanucleus.metadata.annotatio
+ ns.*, org.datanucleus.metadata.xml.*, org.datanucleus.plugin.*, org.d
+ atanucleus.properties.*, org.datanucleus.query.*, org.datanucleus.que
+ ry.cache.*, org.datanucleus.query.compiler.*, org.datanucleus.query.e
+ valuator.*, org.datanucleus.query.evaluator.memory.*, org.datanucleus
+ .query.expression.*, org.datanucleus.query.node.*, org.datanucleus.qu
+ ery.symbol.*, org.datanucleus.query.typesafe.*, org.datanucleus.state
+ .*, org.datanucleus.store.*, org.datanucleus.store.autostart.*, org.d
+ atanucleus.store.connection.*, org.datanucleus.store.encryption.*, or
+ g.datanucleus.store.exceptions.*, org.datanucleus.store.federation.*,
+  org.datanucleus.store.fieldmanager.*, org.datanucleus.store.objectva
+ luegenerator.*, org.datanucleus.store.query.*, org.datanucleus.store.
+ query.cache.*, org.datanucleus.store.rdbms.*, org.datanucleus.store.r
+ dbms.adapter.*, org.datanucleus.store.rdbms.autostart.*, org.datanucl
+ eus.store.rdbms.datasource.*, org.datanucleus.store.rdbms.datasource.
+ bonecp.*, org.datanucleus.store.rdbms.datasource.c3p0.*, org.datanucl
+ eus.store.rdbms.datasource.dbcp.*, org.datanucleus.store.rdbms.dataso
+ urce.dbcp.cpdsadapter.*, org.datanucleus.store.rdbms.datasource.dbcp.
+ datasources.*, org.datanucleus.store.rdbms.datasource.dbcp.jocl.*, or
+ g.datanucleus.store.rdbms.datasource.dbcp.managed.*, org.datanucleus.
+ store.rdbms.datasource.dbcp.pool.*, org.datanucleus.store.rdbms.datas
+ ource.dbcp.pool.impl.*, org.datanucleus.store.rdbms.datasource.proxoo
+ l.*, org.datanucleus.store.rdbms.exceptions.*, org.datanucleus.store.
+ rdbms.fieldmanager.*, org.datanucleus.store.rdbms.identifier.*, org.d
+ atanucleus.store.rdbms.key.*, org.datanucleus.store.rdbms.mapping.*, 
+ org.datanucleus.store.rdbms.mapping.datastore.*, org.datanucleus.stor
+ e.rdbms.mapping.java.*, org.datanucleus.store.rdbms.mapping.oracle.*,
+  org.datanucleus.store.rdbms.query.*, org.datanucleus.store.rdbms.req
+ uest.*, org.datanucleus.store.rdbms.schema.*, org.datanucleus.store.r
+ dbms.scostore.*, org.datanucleus.store.rdbms.sql.*, org.datanucleus.s
+ tore.rdbms.sql.expression.*, org.datanucleus.store.rdbms.sql.method.*
+ , org.datanucleus.store.rdbms.sql.operation.*, org.datanucleus.store.
+ rdbms.table.*, org.datanucleus.store.rdbms.valuegenerator.*, org.data
+ nucleus.store.schema.*, org.datanucleus.store.schema.naming.*, org.da
+ tanucleus.store.schema.table.*, org.datanucleus.store.scostore.*, org
+ .datanucleus.store.types.*, org.datanucleus.store.types.backed.*, org
+ .datanucleus.store.types.converters.*, org.datanucleus.store.types.qu
+ eued.*, org.datanucleus.store.types.simple.*, org.datanucleus.store.v
+ aluegenerator.*, org.datanucleus.transaction.*, org.datanucleus.trans
+ action.jta.*, org.datanucleus.util.*, org.datanucleus.validation.*, o
+ rg.etosha.*, org.etosha.g2h.*, org.etosha.hdgs.mln.*, org.gephi.plugi
+ n.hadoop.connector.*, org.gephi.plugins.etosha.hive.*, org.gephi.plug
+ ins.etosha.hive.tools.*, org.gephi.plugins.etosha.impala.*, org.gephi
+ .plugins.etosha.mysql.*, org.hamcrest.*, org.hamcrest.core.*, org.ham
+ crest.internal.*, org.jboss.netty.bootstrap.*, org.jboss.netty.buffer
+ .*, org.jboss.netty.channel.*, org.jboss.netty.channel.group.*, org.j
+ boss.netty.channel.local.*, org.jboss.netty.channel.socket.*, org.jbo
+ ss.netty.channel.socket.http.*, org.jboss.netty.channel.socket.nio.*,
+  org.jboss.netty.channel.socket.oio.*, org.jboss.netty.container.micr
+ ocontainer.*, org.jboss.netty.container.osgi.*, org.jboss.netty.conta
+ iner.spring.*, org.jboss.netty.handler.codec.*, org.jboss.netty.handl
+ er.codec.base64.*, org.jboss.netty.handler.codec.compression.*, org.j
+ boss.netty.handler.codec.embedder.*, org.jboss.netty.handler.codec.fr
+ ame.*, org.jboss.netty.handler.codec.http.*, org.jboss.netty.handler.
+ codec.http.websocket.*, org.jboss.netty.handler.codec.http.websocketx
+ .*, org.jboss.netty.handler.codec.oneone.*, org.jboss.netty.handler.c
+ odec.protobuf.*, org.jboss.netty.handler.codec.replay.*, org.jboss.ne
+ tty.handler.codec.rtsp.*, org.jboss.netty.handler.codec.serialization
+ .*, org.jboss.netty.handler.codec.spdy.*, org.jboss.netty.handler.cod
+ ec.string.*, org.jboss.netty.handler.execution.*, org.jboss.netty.han
+ dler.logging.*, org.jboss.netty.handler.queue.*, org.jboss.netty.hand
+ ler.ssl.*, org.jboss.netty.handler.stream.*, org.jboss.netty.handler.
+ timeout.*, org.jboss.netty.logging.*, org.jboss.netty.util.*, org.jbo
+ ss.netty.util.internal.*, org.jboss.netty.util.internal.jzlib.*, org.
+ jets3t.service.*, org.jets3t.service.acl.*, org.jets3t.service.impl.r
+ est.*, org.jets3t.service.impl.rest.httpclient.*, org.jets3t.service.
+ impl.soap.axis.*, org.jets3t.service.impl.soap.axis._2006_03_01.*, or
+ g.jets3t.service.io.*, org.jets3t.service.model.*, org.jets3t.service
+ .multithread.*, org.jets3t.service.security.*, org.jets3t.service.uti
+ ls.*, org.jets3t.service.utils.gatekeeper.*, org.jets3t.service.utils
+ .signedurl.*, org.json.*, org.junit.*, org.junit.experimental.*, org.
+ junit.experimental.categories.*, org.junit.experimental.max.*, org.ju
+ nit.experimental.results.*, org.junit.experimental.runners.*, org.jun
+ it.experimental.theories.*, org.junit.experimental.theories.internal.
+ *, org.junit.experimental.theories.suppliers.*, org.junit.internal.*,
+  org.junit.internal.builders.*, org.junit.internal.matchers.*, org.ju
+ nit.internal.requests.*, org.junit.internal.runners.*, org.junit.inte
+ rnal.runners.model.*, org.junit.internal.runners.statements.*, org.ju
+ nit.matchers.*, org.junit.rules.*, org.junit.runner.*, org.junit.runn
+ er.manipulation.*, org.junit.runner.notification.*, org.junit.runners
+ .*, org.junit.runners.model.*, org.kosmix.kosmosfs.access.*, org.mock
+ ito.*, org.mockito.asm.*, org.mockito.asm.signature.*, org.mockito.as
+ m.tree.*, org.mockito.asm.tree.analysis.*, org.mockito.asm.util.*, or
+ g.mockito.cglib.beans.*, org.mockito.cglib.core.*, org.mockito.cglib.
+ proxy.*, org.mockito.cglib.reflect.*, org.mockito.cglib.transform.*, 
+ org.mockito.cglib.transform.impl.*, org.mockito.cglib.util.*, org.moc
+ kito.configuration.*, org.mockito.exceptions.*, org.mockito.exception
+ s.base.*, org.mockito.exceptions.misusing.*, org.mockito.exceptions.v
+ erification.*, org.mockito.exceptions.verification.junit.*, org.mocki
+ to.internal.*, org.mockito.internal.configuration.*, org.mockito.inte
+ rnal.creation.*, org.mockito.internal.creation.cglib.*, org.mockito.i
+ nternal.creation.jmock.*, org.mockito.internal.debugging.*, org.mocki
+ to.internal.exceptions.*, org.mockito.internal.exceptions.base.*, org
+ .mockito.internal.exceptions.util.*, org.mockito.internal.invocation.
+ *, org.mockito.internal.invocation.realmethod.*, org.mockito.internal
+ .listeners.*, org.mockito.internal.matchers.*, org.mockito.internal.m
+ atchers.apachecommons.*, org.mockito.internal.progress.*, org.mockito
+ .internal.reporting.*, org.mockito.internal.runners.*, org.mockito.in
+ ternal.runners.util.*, org.mockito.internal.stubbing.*, org.mockito.i
+ nternal.stubbing.answers.*, org.mockito.internal.stubbing.defaultansw
+ ers.*, org.mockito.internal.util.*, org.mockito.internal.util.junit.*
+ , org.mockito.internal.util.reflection.*, org.mockito.internal.verifi
+ cation.*, org.mockito.internal.verification.api.*, org.mockito.intern
+ al.verification.argumentmatching.*, org.mockito.internal.verification
+ .checkers.*, org.mockito.invocation.*, org.mockito.runners.*, org.moc
+ kito.stubbing.*, org.mockito.stubbing.answers.*, org.mockito.verifica
+ tion.*, org.mortbay.component.*, org.mortbay.io.*, org.mortbay.io.bio
+ .*, org.mortbay.io.nio.*, org.mortbay.jetty.*, org.mortbay.jetty.bio.
+ *, org.mortbay.jetty.deployer.*, org.mortbay.jetty.handler.*, org.mor
+ tbay.jetty.nio.*, org.mortbay.jetty.security.*, org.mortbay.jetty.ser
+ vlet.*, org.mortbay.jetty.webapp.*, org.mortbay.log.*, org.mortbay.re
+ source.*, org.mortbay.servlet.*, org.mortbay.servlet.jetty.*, org.mor
+ tbay.thread.*, org.mortbay.util.*, org.mortbay.util.ajax.*, org.mortb
+ ay.xml.*, org.objectweb.asm.*, org.objectweb.asm.signature.*, org.obj
+ enesis.*, org.objenesis.instantiator.*, org.objenesis.instantiator.ba
+ sic.*, org.objenesis.instantiator.gcj.*, org.objenesis.instantiator.j
+ rockit.*, org.objenesis.instantiator.sun.*, org.objenesis.strategy.*,
+  org.slf4j.*, org.slf4j.helpers.*, org.slf4j.impl.*, org.slf4j.spi.*,
+  org.stringtemplate.v4.*, org.stringtemplate.v4.compiler.*, org.strin
+ gtemplate.v4.debug.*, org.stringtemplate.v4.gui.*, org.stringtemplate
+ .v4.misc.*, org.tukaani.xz.*, org.tukaani.xz.check.*, org.tukaani.xz.
+ common.*, org.tukaani.xz.delta.*, org.tukaani.xz.index.*, org.tukaani
+ .xz.lz.*, org.tukaani.xz.lzma.*, org.tukaani.xz.rangecoder.*, org.tuk
+ aani.xz.simple.*, org.xerial.snappy.*, org.znerd.xmlenc.*, org.znerd.
+ xmlenc.sax.*, sqlline.*, test.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: org.etosha
+OpenIDE-Module-Name: gephi-hadoop-connector
+OpenIDE-Module-Short-Description: Parent POM for all Gephi plugins
+OpenIDE-Module-Long-Description: Parent POM for all Gephi plugins
+X-Class-Path: ext/org.etosha.g2h/ghc/ghc-bridge.jar
+Maven-Class-Path: ghc:ghc-bridge:2.0.0
+OpenIDE-Module-Module-Dependencies: org.gephi.preview.plugin > 0.9.1, 
+ org.gephi.gleem > 0.9.1, org.gephi.desktop.io.export > 0.9.1, org.gep
+ hi.io.exporter.api > 0.9.1, org.gephi.statistics.plugin > 0.9.1, org.
+ gephi.filters.api > 0.9.1, org.gephi.ui.utils > 0.9.1, org.gephi.desk
+ top.project > 0.9.1, org.gephi.visualization.api > 0.9.1, org.gephi.u
+ tils > 0.9.1, org.gephi.db.drivers > 0.9.1, org.gephi.visualization >
+  0.9.1, org.gephi.filters.plugin > 0.9.1, org.gephi.project.api > 0.9
+ .1, org.gephi.datalab.plugin > 0.9.1, org.gephi.tools.api > 0.9.1, or
+ g.gephi.ui.components > 0.9.1, org.gephi.mostrecentfiles.api > 0.9.1,
+  org.gephi.desktop.statistics > 0.9.1, org.gephi.graph.api > 0.9.1, o
+ rg.gephi.preview.api > 0.9.1, org.gephi.algorithms.plugin > 0.9.1, or
+ g.gephi.layout.plugin > 0.9.1, org.gephi.ui.library.wrapper > 0.9.1, 
+ org.gephi.io.importer.api > 0.9.1, org.gephi.io.processor.plugin > 0.
+ 9.1, org.gephi.io.importer.plugin > 0.9.1, org.gephi.directory.choose
+ r > 0.9.1, org.gephi.layout.api > 0.9.1, org.gephi.core.library.wrapp
+ er > 0.9.1, org.gephi.ui.propertyeditor > 0.9.1, org.gephi.datalab.ap
+ i > 0.9.1, org.gephi.io.generator.plugin > 0.9.1, org.gephi.statistic
+ s.api > 0.9.1, org.gephi.io.exporter.preview > 0.9.1, org.gephi.persp
+ ective.api > 0.9.1, org.gephi.io.generator.api > 0.9.1, org.gephi.io.
+ exporter.plugin > 0.9.1, org.gephi.utils.longtask > 0.9.1, org.openid
+ e.util.lookup > 8.32.1, org.openide.util > 9.5.1, org.openide.awt > 7
+ .65.1, org.openide.util.ui > 9.4.1, org.openide.windows > 6.74.1, org
+ .openide.modules > 7.47.1, org.netbeans.modules.options.api/1 > 1.44.
+ 1
+

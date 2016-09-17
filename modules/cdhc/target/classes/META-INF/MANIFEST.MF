@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: CDH Connector
+OpenIDE-Module-Short-Description: Get data via JDBC from Hadoop.
+OpenIDE-Module-Long-Description: ...
+OpenIDE-Module-Display-Category: Import
+OpenIDE-Module-Specification-Version: 0.5.0
+OpenIDE-Module-Implementation-Version: 0.5.0
+OpenIDE-Module-Build-Version: 201609161821
+OpenIDE-Module: com.cloudera.cdhc
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+

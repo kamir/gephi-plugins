@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.etosha.g2h">
+    <module_version install_time="1474106894183" last="true" origin="installer" specification_version="1.0.0">
+        <file crc="3557690859" name="config/Modules/org-etosha-g2h.xml"/>
+        <file crc="2812129622" name="modules/ext/org.etosha.g2h/ghc/ghc-bridge.jar"/>
+        <file crc="2642632343" name="modules/org-etosha-g2h.jar"/>
+    </module_version>
+</module>

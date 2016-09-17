@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="app">
+                <file name="HadoopImporterWindow" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager-->
+                    <attr name="hint.originalPublicID" stringvalue="-//app//HadoopImporterWindow//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="org">
+                <folder name="etosha">
+                    <folder name="hdgs">
+                        <folder name="mln">
+                            <file name="TimedependentMultiLayerNetworkManager">
+                                <!--org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager-->
+                                <attr name="settings.providerPath" stringvalue="xml/lookups//app/HadoopImporterWindow.instance"/>
+                            </file>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="app">
+                <file name="HadoopImporterWindow.instance">
+                    <!--org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager"/>
+                    <attr name="settings.instanceOf" stringvalue="org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="File">
+            <file name="org-etosha-HadoopImporterToolAction.instance">
+                <!--org.gephi.plugin.hadoop.connector.HadoopSQLImporterToolAction-->
+                <attr
+                    bundlevalue="org.gephi.plugin.hadoop.connector.Bundle#CTL_HadoopImporterToolAction" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="org.gephi.plugin.hadoop.connector.HadoopSQLImporterToolAction"/>
+                <attr name="iconBase" stringvalue="org/gephi/plugin/hadoop/connector/iconNet16.png"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+            <file name="org-etosha-hdgs-gephi-plugin-MainAction.instance">
+                <!--org.gephi.plugin.hadoop.connector.LoadFromHadoopMainAction-->
+                <attr
+                    bundlevalue="org.gephi.plugin.hadoop.connector.Bundle#CTL_MainAction" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="org.gephi.plugin.hadoop.connector.LoadFromHadoopMainAction"/>
+                <attr name="iconBase" stringvalue="org/gephi/plugin/hadoop/connector/treeSun16.png"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+        <folder name="Window">
+            <file name="app-TimedependentMultiLayerNetworkManager.instance">
+                <!--org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager"/>
+                <attr name="preferredID" stringvalue="TimedependentMultiLayerNetworkManager"/>
+                <attr
+                    bundlevalue="org.etosha.hdgs.mln.Bundle#CTL_HadoopImporterWindowAction" name="displayName"/>
+                <attr name="iconBase" stringvalue="org/etosha/hdgs/mln/icon_netzwerk.png"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="File">
+            <file name="org-etosha-HadoopImporterToolAction.shadow">
+                <!--org.gephi.plugin.hadoop.connector.HadoopSQLImporterToolAction-->
+                <attr name="originalFile" stringvalue="Actions/File/org-etosha-HadoopImporterToolAction.instance"/>
+                <attr intvalue="100" name="position"/>
+            </file>
+            <file name="org-etosha-HadoopImporterToolAction-separatorAfter.instance">
+                <!--org.gephi.plugin.hadoop.connector.HadoopSQLImporterToolAction-->
+                <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                <attr intvalue="150" name="position"/>
+            </file>
+            <file name="org-etosha-hdgs-gephi-plugin-MainAction.shadow">
+                <!--org.gephi.plugin.hadoop.connector.LoadFromHadoopMainAction-->
+                <attr name="originalFile" stringvalue="Actions/File/org-etosha-hdgs-gephi-plugin-MainAction.instance"/>
+                <attr intvalue="0" name="position"/>
+            </file>
+            <file name="org-etosha-hdgs-gephi-plugin-MainAction-separatorAfter.instance">
+                <!--org.gephi.plugin.hadoop.connector.LoadFromHadoopMainAction-->
+                <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                <attr intvalue="50" name="position"/>
+            </file>
+            <file name="org-etosha-hdgs-gephi-plugin-MainAction-separatorBefore.instance">
+                <!--org.gephi.plugin.hadoop.connector.LoadFromHadoopMainAction-->
+                <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                <attr intvalue="-50" name="position"/>
+            </file>
+        </folder>
+        <folder name="Window">
+            <file name="app-TimedependentMultiLayerNetworkManager.shadow">
+                <!--org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager-->
+                <attr name="originalFile" stringvalue="Actions/Window/app-TimedependentMultiLayerNetworkManager.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="TimedependentMultiLayerNetworkManager.settings">
+                <!--org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="editor">
+                <file name="TimedependentMultiLayerNetworkManager.wstcref">
+                    <!--org.etosha.hdgs.mln.TimedependentMultiLayerNetworkManager--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="TimedependentMultiLayerNetworkManager"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="OptionsDialog">
+        <folder name="Advanced">
+            <file name="org-gephi-plugin-hadoop-connector-EtoshaOptionsPanelController.instance">
+                <!--org.gephi.plugin.hadoop.connector.EtoshaOptionsPanelController-->
+                <attr
+                    methodvalue="org.netbeans.spi.options.AdvancedOption.createSubCategory" name="instanceCreate"/>
+                <attr name="controller" newvalue="org.gephi.plugin.hadoop.connector.EtoshaOptionsPanelController"/>
+                <attr
+                    bundlevalue="org.gephi.plugin.hadoop.connector.Bundle#AdvancedOption_DisplayName_Etosha" name="displayName"/>
+                <attr
+                    bundlevalue="org.gephi.plugin.hadoop.connector.Bundle#AdvancedOption_Keywords_Etosha" name="keywords"/>
+                <attr name="keywordsCategory" stringvalue="Advanced/Etosha"/>
+            </file>
+            <file name="org-gephi-plugin-hadoop-connector-G2HOptionsPanelController.instance">
+                <!--org.gephi.plugin.hadoop.connector.G2HOptionsPanelController-->
+                <attr
+                    methodvalue="org.netbeans.spi.options.AdvancedOption.createSubCategory" name="instanceCreate"/>
+                <attr name="controller" newvalue="org.gephi.plugin.hadoop.connector.G2HOptionsPanelController"/>
+                <attr
+                    bundlevalue="org.gephi.plugin.hadoop.connector.Bundle#AdvancedOption_DisplayName_G2H" name="displayName"/>
+                <attr
+                    bundlevalue="org.gephi.plugin.hadoop.connector.Bundle#AdvancedOption_Keywords_G2H" name="keywords"/>
+                <attr name="keywordsCategory" stringvalue="Advanced/G2H"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

@@ -1,0 +1,10 @@
+gephi-0.9.1/platform=1455480342000
+cluster.gephi-0.9.1/platform=1455480342000
+cluster.gephi-0.9.1/gephi=1455480342000
+cluster.plugins_clusters/plugins=1474106898000
+user=1474106898000
+crc=7
+locale=de_DE
+branding=gephi
+java.version=1.8.0_101
+java.vm.version=25.101-b13

@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: org.etosha.g2h.SimpleGraphExporterTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 4.355 sec <<< FAILURE! - in org.etosha.g2h.SimpleGraphExporterTest
+org.etosha.g2h.SimpleGraphExporterTest.testMain()  Time elapsed: 3.855 sec  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at org.junit.Assert.fail(Assert.java:91)
+	at org.etosha.g2h.SimpleGraphExporterTest.testMain(SimpleGraphExporterTest.java:49)
+
+org.etosha.g2h.SimpleGraphExporterTest.testCenterOnScreen()  Time elapsed: 0.498 sec  <<< FAILURE!
+java.lang.AssertionError: The test case is a prototype.
+	at org.junit.Assert.fail(Assert.java:91)
+	at org.etosha.g2h.SimpleGraphExporterTest.testCenterOnScreen(SimpleGraphExporterTest.java:61)
+

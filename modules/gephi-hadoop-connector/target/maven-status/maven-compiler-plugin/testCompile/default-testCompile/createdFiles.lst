@@ -1,0 +1,7 @@
+org/gephi/plugins/etosha/impala/ImpalaImportConnectorTest.class
+org/etosha/g2h/SimpleGraphExporterTest.class
+org/gephi/plugins/etosha/hive/tools/HiveTableDataSetPageTest.class
+org/etosha/hdgs/mln/TimedependentMultiLayerNetworkManagerTest.class
+org/gephi/plugins/etosha/hive/tools/ExperimentalHiveTableInspectorTest.class
+org/gephi/plugin/hadoop/connector/LoadFromHadoopMainActionTest.class
+org/gephi/plugin/hadoop/connector/HadoopSQLImporterToolActionTest.class
