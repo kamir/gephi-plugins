@@ -183,7 +183,7 @@ final class G2HPanel extends javax.swing.JPanel {
         this.jTf_IMPALA_PORT.setText(NbPreferences.forModule(G2HPanel.class).get("IMPALA_DEAMON_PORT", "21050"));
         
         HadoopClusterDefaults.IMPALA_DEAMON_IP = this.jTf_IMPALA_DEAMON_HOST.getText();
-        HadoopClusterDefaults.IMPALA_DEAMON_PORT = Integer.parseInt( this.jTf_IMPALA_PORT.getText() );
+        HadoopClusterDefaults.IMPALA_DEAMON_PORT =  this.jTf_IMPALA_PORT.getText();
 
         HadoopClusterDefaults.notifyChangeListeners();
 
@@ -199,7 +199,7 @@ final class G2HPanel extends javax.swing.JPanel {
         // SomeSystemOption.getDefault().setSomeStringProperty(someTextField.getText());
         
         HadoopClusterDefaults.IMPALA_DEAMON_IP = this.jTf_IMPALA_DEAMON_HOST.getText();
-        HadoopClusterDefaults.IMPALA_DEAMON_PORT = Integer.parseInt( this.jTf_IMPALA_PORT.getText() );
+        HadoopClusterDefaults.IMPALA_DEAMON_PORT = this.jTf_IMPALA_PORT.getText();
 
         NbPreferences.forModule(G2HPanel.class).put("IMPALA_DEAMON_IP", this.jTf_IMPALA_DEAMON_HOST.getText() );
         NbPreferences.forModule(G2HPanel.class).put("IMPALA_DEAMON_PORT", this.jTf_IMPALA_PORT.getText() );

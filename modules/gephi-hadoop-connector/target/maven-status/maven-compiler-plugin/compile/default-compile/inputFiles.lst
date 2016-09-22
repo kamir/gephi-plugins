@@ -15,6 +15,7 @@
 /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/modules/gephi-hadoop-connector/src/main/java/org/gephi/plugins/etosha/hive/HiveJDBCDriver.java
 /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/modules/gephi-hadoop-connector/src/main/java/org/gephi/plugins/etosha/impala/EdgeListImpalaDatabaseImpl.java
 /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/modules/gephi-hadoop-connector/src/main/java/org/gephi/plugins/etosha/impala/ImpalaJDBCDriver.java
+/Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/modules/gephi-hadoop-connector/src/main/java/org/etosha/g2h/examples/Net1.java
 /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/modules/gephi-hadoop-connector/src/main/java/org/gephi/plugin/hadoop/connector/EtoshaPanel.java
 /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/modules/gephi-hadoop-connector/src/main/java/org/gephi/plugins/etosha/mysql/MySQLImportConnector.java
 /Users/kamir/Documents/github.workspace/ghc/git-modules/gephi-plugins/modules/gephi-hadoop-connector/src/main/java/org/etosha/g2h/SimpleGraphExporter.java

@@ -28,9 +28,15 @@ public class HadoopClusterDefaults {
 //    public static int HIVE_SERVER_PORT = 0;
 //    public static int MySQL_SERVER_PORT = 0;
 
-    public static String IMPALA_DEAMON_IP = "172.16.14.224";
-    public static int IMPALA_DEAMON_PORT = 21050;
+    public static String IMPALA_DEAMON_IP = "192.168.160.177";
+    public static String IMPALA_DEAMON_PORT = "21050";
 
+    public static String HBase_ZK = "127.0.0.1";
+    public static String HBase_ZK_PORT = "2181";
+    
+    public static String SOLR_ZK = "127.0.0.1";
+    public static String SOLR_ZK_PORT = "2181";
+    
     public static String ETOSHA_DB = "/opendata/wiki";
     public static String ETOSHA_HOST = "www.semanpix.de";
 

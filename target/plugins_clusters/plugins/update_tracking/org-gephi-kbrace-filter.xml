@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<module codename="org.gephi.kbrace.filter">
-    <module_version install_time="1474114233621" last="true" origin="updater" specification_version="1.0.0">
-        <file crc="4126690167" name="config/Modules/org-gephi-kbrace-filter.xml"/>
-        <file crc="1290410463" name="modules/org-gephi-kbrace-filter.jar"/>
-    </module_version>
-</module>

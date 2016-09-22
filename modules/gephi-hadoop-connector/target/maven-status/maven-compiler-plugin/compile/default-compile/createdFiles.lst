@@ -6,6 +6,7 @@ org/etosha/hdgs/mln/TimedependentMultiLayerNetworkManager$1.class
 org/gephi/plugin/hadoop/connector/G2HOptionsPanelController.class
 org/etosha/g2h/SimpleGraphExporter$2.class
 org/gephi/plugin/hadoop/connector/LoadFromHadoopMainAction.class
+org/etosha/g2h/examples/Net1.class
 org/etosha/NetworkLayer.class
 org/gephi/plugins/etosha/impala/ImpalaDynamicImportConnector.class
 org/gephi/plugins/etosha/hive/AbstractHiveDatabase.class

@@ -2,6 +2,7 @@ package org.gephi.plugins.etosha.impala;
  
 import org.gephi.plugin.hadoop.connector.HadoopSQLImporterToolAction;
 import org.etosha.MultiLayerNetwork;
+import org.etosha.g2h.examples.Net1;
  
 import org.gephi.graph.api.DirectedGraph;
 import org.gephi.graph.api.GraphController;
@@ -34,8 +35,8 @@ import org.openide.util.Lookup;
  */
 public class ImpalaImportConnector {
     
-    static public String defaultNQ = "SELECT nodes.id AS id, nodes.label AS label, nodes.url FROM nodes";
-    static public String defaultEQ = "SELECT edges.source AS source, edges.target AS target, edges.label AS label, edges.weight AS weight FROM edges";
+//    static public String defaultNQ = "SELECT nodes.id AS id, nodes.label AS label, nodes.url FROM nodes";
+//    static public String defaultEQ = "SELECT edges.source AS source, edges.target AS target, edges.label AS label, edges.weight AS weight FROM edges";
 
     public static ProjectController pc = Lookup.getDefault().lookup(ProjectController.class);
    
@@ -59,12 +60,12 @@ public class ImpalaImportConnector {
         
         EdgeListImpalaDatabaseImpl db = new EdgeListImpalaDatabaseImpl();
         
-        int impalaPort = HadoopClusterDefaults.IMPALA_DEAMON_PORT;
+        String impalaPort = HadoopClusterDefaults.IMPALA_DEAMON_PORT;
         
         db.setDBName(";auth=noSasl"); 
         
         db.setHost( HadoopClusterDefaults.IMPALA_DEAMON_IP );
-        db.setPort( impalaPort );  
+        db.setPort( Integer.parseInt( impalaPort ) );  
         
         db.setUsername("cloudera");
         db.setPasswd("cloudera");
@@ -120,12 +121,12 @@ public class ImpalaImportConnector {
         //Import database
         EdgeListImpalaDatabaseImpl db = new EdgeListImpalaDatabaseImpl();
         
-        int impalaPort = HadoopClusterDefaults.IMPALA_DEAMON_PORT;
+        String impalaPort = HadoopClusterDefaults.IMPALA_DEAMON_PORT;
         
-        db.setDBName(";auth=noSasl"); 
+        db.setDBName("default;auth=noSasl"); 
         
         db.setHost( HadoopClusterDefaults.IMPALA_DEAMON_IP );
-        db.setPort( impalaPort );  
+        db.setPort( Integer.parseInt( impalaPort ) );  
         
         db.setUsername("cloudera");
         db.setPasswd("cloudera");
@@ -153,8 +154,8 @@ public class ImpalaImportConnector {
 //        db.setEdgeQuery( eQ );
 //        
         
-        db.setNodeQuery( defaultNQ );
-        db.setEdgeQuery( defaultEQ );
+        db.setNodeQuery( Net1.defaultNQ );
+        db.setEdgeQuery( Net1.defaultEQ );
         
         ImporterEdgeList edgeListImporter = new ImporterEdgeList();
         
@@ -173,14 +174,13 @@ public class ImpalaImportConnector {
             importController.process(container, new DefaultProcessor(), workspace);
             
             javax.swing.JOptionPane.showMessageDialog(null, "> Import finished sucessfully.");
-
             
         }
         catch (Exception ex ) {
 
             ex.printStackTrace();
             
-            javax.swing.JOptionPane.showMessageDialog(null, "> Import finished with problems !");
+            javax.swing.JOptionPane.showMessageDialog(null, "> Import finished with problems!");
 
             errorLog.append( ex.getMessage() );
             errorLog.append( ex.getCause() );
@@ -217,3 +217,4 @@ public class ImpalaImportConnector {
 
     }
 }
+

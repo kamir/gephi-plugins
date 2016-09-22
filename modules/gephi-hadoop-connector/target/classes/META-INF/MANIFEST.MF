@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 OpenIDE-Module-Localizing-Bundle: org/etosha/g2h/Bundle.properties
 OpenIDE-Module-Specification-Version: 1.0.0
 OpenIDE-Module-Implementation-Version: 1.0.0
-OpenIDE-Module-Build-Version: 201609171157
+OpenIDE-Module-Build-Version: 201609221545
 OpenIDE-Module: org.etosha.g2h
 OpenIDE-Module-Public-Packages: antlr.*, antlr.ASdebug.*, antlr.action
  s.cpp.*, antlr.actions.csharp.*, antlr.actions.java.*, antlr.actions.

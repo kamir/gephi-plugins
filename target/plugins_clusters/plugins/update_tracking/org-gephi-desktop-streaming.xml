@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<module codename="org.gephi.desktop.streaming">
-    <module_version install_time="1474114232469" last="true" origin="Gephi Thirdparties Plugins" specification_version="1.0.0">
-        <file crc="2580419704" name="config/Modules/org-gephi-desktop-streaming.xml"/>
-        <file crc="1546206176" name="modules/org-gephi-desktop-streaming.jar"/>
-    </module_version>
-</module>

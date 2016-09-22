@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<module codename="net.clementlevallois">
-    <module_version install_time="1474114233018" last="true" origin="Gephi Thirdparties Plugins" specification_version="1.0.0">
-        <file crc="2512426207" name="config/Modules/net-clementlevallois.xml"/>
-        <file crc="2327766187" name="modules/net-clementlevallois.jar"/>
-    </module_version>
-</module>

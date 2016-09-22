@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<module codename="wouterspekkink.mdslayout">
-    <module_version install_time="1474114232734" last="true" origin="Gephi Thirdparties Plugins" specification_version="0.9.1">
-        <file crc="1610066973" name="config/Modules/wouterspekkink-mdslayout.xml"/>
-        <file crc="2086335480" name="modules/wouterspekkink-mdslayout.jar"/>
-    </module_version>
-</module>

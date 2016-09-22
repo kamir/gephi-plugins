@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<module codename="org.gephi.streaming.impl">
-    <module_version install_time="1474114232534" last="true" origin="Gephi Thirdparties Plugins" specification_version="1.0.0">
-        <file crc="2014122540" name="config/Modules/org-gephi-streaming-impl.xml"/>
-        <file crc="2245384575" name="modules/org-gephi-streaming-impl.jar"/>
-    </module_version>
-</module>
